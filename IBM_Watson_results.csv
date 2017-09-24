@@ -1,0 +1,1493 @@
+Filename,class,score,type_hierarchy
+12227_tapir.jpg,manatee,0.816,/animal/mammal/aquatic mammal/manatee
+12227_tapir.jpg,aquatic mammal,0.852,
+12227_tapir.jpg,mammal,0.852,
+12227_tapir.jpg,animal,0.916,
+12227_tapir.jpg,European catfish,0.663,/animal/aquatic vertebrate/fish/catfish/European catfish
+12227_tapir.jpg,catfish,0.67,
+12227_tapir.jpg,fish,0.674,
+12227_tapir.jpg,aquatic vertebrate,0.676,
+12227_tapir.jpg,sea cow,0.5,/animal/mammal/aquatic mammal/sea cow
+12227_tapir.jpg,greenishness color,0.941,
+12227_tapir.jpg,sea green color,0.807,
+12231_porcupine.jpg,ocean floor,0.73,/nature/ocean floor
+12231_porcupine.jpg,nature,0.801,
+12231_porcupine.jpg,eelgrass,0.61,/plant/eelgrass
+12231_porcupine.jpg,plant,0.726,
+12231_porcupine.jpg,seagrass,0.555,/microorganism/algae/seagrass
+12231_porcupine.jpg,algae,0.599,
+12231_porcupine.jpg,microorganism,0.599,
+12231_porcupine.jpg,water milfoil,0.514,/plant/water milfoil
+12231_porcupine.jpg,cornetfish,0.505,/animal/aquatic vertebrate/fish/cornetfish
+12231_porcupine.jpg,fish,0.51,
+12231_porcupine.jpg,aquatic vertebrate,0.51,
+12231_porcupine.jpg,animal,0.51,
+12231_porcupine.jpg,asterism (cluster of stars),0.5,/nature/asterism (cluster of stars)
+12231_porcupine.jpg,sea green color,0.938,
+12231_porcupine.jpg,jade green color,0.665,
+3743-2.JPG,tinamou (fowl),0.866,/animal/game/tinamou (fowl)
+3743-2.JPG,game,0.892,
+3743-2.JPG,animal,0.919,
+3743-2.JPG,rhea,0.539,/animal/bird/rhea
+3743-2.JPG,bird,0.541,
+3743-2.JPG,sharp-tailed grouse,0.5,/animal/game/sharp-tailed grouse
+3743-2.JPG,beige color,0.961,
+ave rapaz-3734-19.JPG,harrier eagle,0.692,/animal/bird/bird of prey/hawk/harrier eagle
+ave rapaz-3734-19.JPG,hawk,0.737,
+ave rapaz-3734-19.JPG,bird of prey,0.738,
+ave rapaz-3734-19.JPG,bird,0.791,
+ave rapaz-3734-19.JPG,animal,0.818,
+ave rapaz-3734-19.JPG,Australian turtledove,0.515,/animal/bird/gallinaceous bird/pigeon/dove/Australian turtledove
+ave rapaz-3734-19.JPG,dove,0.516,
+ave rapaz-3734-19.JPG,pigeon,0.516,
+ave rapaz-3734-19.JPG,gallinaceous bird,0.516,
+ave rapaz-3734-19.JPG,goshawk,0.508,/animal/bird/bird of prey/hawk/goshawk
+ave rapaz-3734-19.JPG,baboon,0.5,/animal/mammal/monkey/baboon
+ave rapaz-3734-19.JPG,monkey,0.501,
+ave rapaz-3734-19.JPG,mammal,0.502,
+ave rapaz-3734-19.JPG,beige color,0.774,
+ave rapaz-3734-19.JPG,sea green color,0.528,
+Cchinga B-Rancho Chico 3715-14.JPG,skunk,0.986,/animal/mammal/carnivore/skunk
+Cchinga B-Rancho Chico 3715-14.JPG,carnivore,0.998,
+Cchinga B-Rancho Chico 3715-14.JPG,mammal,0.998,
+Cchinga B-Rancho Chico 3715-14.JPG,animal,0.998,
+Cchinga B-Rancho Chico 3715-14.JPG,striped skunk,0.5,/animal/mammal/carnivore/striped skunk
+Cchinga B-Rancho Chico 3715-14.JPG,black color,0.89,
+Cchinga B-Rancho Chico 3715-14.JPG,coal black color,0.845,
+chunga 3728-5.JPG,chunga,0.593,/animal/bird/aquatic bird/chunga
+chunga 3728-5.JPG,aquatic bird,0.867,
+chunga 3728-5.JPG,bird,0.871,
+chunga 3728-5.JPG,animal,0.871,
+chunga 3728-5.JPG,bird sanctuary,0.538,/building/bird sanctuary
+chunga 3728-5.JPG,building,0.538,
+chunga 3728-5.JPG,ibis,0.506,/animal/bird/aquatic bird/ibis
+chunga 3728-5.JPG,crested cariama,0.5,/animal/bird/aquatic bird/crested cariama
+chunga 3728-5.JPG,alabaster color,0.808,
+chunga 3728-5.JPG,beige color,0.69,
+chunga 3728-7.JPG,chunga,0.675,/animal/bird/aquatic bird/chunga
+chunga 3728-7.JPG,aquatic bird,0.902,
+chunga 3728-7.JPG,bird,0.905,
+chunga 3728-7.JPG,animal,0.905,
+chunga 3728-7.JPG,crested cariama,0.56,/animal/bird/aquatic bird/crested cariama
+chunga 3728-7.JPG,black-backed gull,0.5,/animal/bird/aquatic bird/seabird/coastal diving bird/seagull/black-backed gull
+chunga 3728-7.JPG,seagull,0.522,
+chunga 3728-7.JPG,coastal diving bird,0.522,
+chunga 3728-7.JPG,seabird,0.544,
+chunga 3728-7.JPG,ivory color,0.728,
+chunga 3728-7.JPG,alabaster color,0.693,
+Cwagneri 2519-22.JPG,manatee,0.553,/animal/mammal/aquatic mammal/manatee
+Cwagneri 2519-22.JPG,aquatic mammal,0.614,
+Cwagneri 2519-22.JPG,mammal,0.778,
+Cwagneri 2519-22.JPG,animal,0.811,
+Cwagneri 2519-22.JPG,Aberdeen Angus cattle,0.526,/animal/mammal/ruminant/cattle/beef/Aberdeen Angus cattle
+Cwagneri 2519-22.JPG,beef,0.53,
+Cwagneri 2519-22.JPG,cattle,0.561,
+Cwagneri 2519-22.JPG,ruminant,0.563,
+Cwagneri 2519-22.JPG,water dog dog,0.515,/animal/domestic animal/dog/water dog dog
+Cwagneri 2519-22.JPG,dog,0.516,
+Cwagneri 2519-22.JPG,domestic animal,0.517,
+Cwagneri 2519-22.JPG,horse,0.507,/animal/mammal/odd-toed ungulate (hoofed mammal)/horse
+Cwagneri 2519-22.JPG,odd-toed ungulate (hoofed mammal),0.577,
+Cwagneri 2519-22.JPG,dun horse,0.504,/animal/mammal/odd-toed ungulate (hoofed mammal)/dun horse
+Cwagneri 2519-22.JPG,dugong (sea mammal),0.5,/animal/mammal/aquatic mammal/dugong (sea mammal)
+Cwagneri 2519-22.JPG,bottle green color,0.776,
+Cwagneri 2519-22.JPG,jade green color,0.578,
+Dazarae 3735-9.JPG,tree kangaroo,0.594,/animal/mammal/pouched mammal/kangaroo/brush kangaroo/tree kangaroo
+Dazarae 3735-9.JPG,brush kangaroo,0.637,
+Dazarae 3735-9.JPG,kangaroo,0.646,
+Dazarae 3735-9.JPG,pouched mammal,0.647,
+Dazarae 3735-9.JPG,mammal,0.93,
+Dazarae 3735-9.JPG,animal,0.93,
+Dazarae 3735-9.JPG,red fox,0.573,/animal/mammal/carnivore/canine/fox/red fox
+Dazarae 3735-9.JPG,fox,0.666,
+Dazarae 3735-9.JPG,canine,0.666,
+Dazarae 3735-9.JPG,carnivore,0.761,
+Dazarae 3735-9.JPG,barking deer,0.522,/animal/mammal/ruminant/deer/barking deer
+Dazarae 3735-9.JPG,deer,0.539,
+Dazarae 3735-9.JPG,ruminant,0.54,
+Dazarae 3735-9.JPG,coon cat,0.51,/animal/mammal/carnivore/coon cat
+Dazarae 3735-9.JPG,capybara rodent,0.5,/animal/mammal/rodent/capybara rodent
+Dazarae 3735-9.JPG,rodent,0.506,
+Dazarae 3735-9.JPG,greenishness color,0.931,
+Dazarae 3735-9.JPG,sea green color,0.586,
+Dazarae BP-18000 3742-21.JPG,agouti rodent,0.874,/animal/mammal/rodent/agouti rodent
+Dazarae BP-18000 3742-21.JPG,rodent,0.915,
+Dazarae BP-18000 3742-21.JPG,mammal,0.936,
+Dazarae BP-18000 3742-21.JPG,animal,0.936,
+Dazarae BP-18000 3742-21.JPG,capybara rodent,0.544,/animal/mammal/rodent/capybara rodent
+Dazarae BP-18000 3742-21.JPG,mongoose,0.5,/animal/mammal/carnivore/mongoose
+Dazarae BP-18000 3742-21.JPG,carnivore,0.506,
+Dazarae BP-18000 3742-21.JPG,gray color,0.688,
+Dazarae BP-18000 3742-21.JPG,beige color,0.678,
+ECU-004-D0001-I000005.jpeg,vivarium (for plants),0.636,/enclosure/vivarium (for plants)
+ECU-004-D0001-I000005.jpeg,enclosure,0.636,
+ECU-004-D0001-I000005.jpeg,water rat,0.537,/animal/mammal/rodent/field mouse/water rat
+ECU-004-D0001-I000005.jpeg,field mouse,0.587,
+ECU-004-D0001-I000005.jpeg,rodent,0.587,
+ECU-004-D0001-I000005.jpeg,mammal,0.587,
+ECU-004-D0001-I000005.jpeg,animal,0.631,
+ECU-004-D0001-I000005.jpeg,algae,0.506,/microorganism/algae
+ECU-004-D0001-I000005.jpeg,microorganism,0.506,
+ECU-004-D0001-I000005.jpeg,glowworm,0.504,/animal/invertebrate/insect/beetle/glowworm
+ECU-004-D0001-I000005.jpeg,beetle,0.504,
+ECU-004-D0001-I000005.jpeg,insect,0.505,
+ECU-004-D0001-I000005.jpeg,invertebrate,0.505,
+ECU-004-D0001-I000005.jpeg,water mouse,0.5,/animal/mammal/rodent/field mouse/water mouse
+ECU-004-D0001-I000005.jpeg,greenishness color,0.984,
+ECU-004-D0001-I000006.jpeg,panther cat,0.987,/animal/mammal/carnivore/feline/cat/wildcat/panther cat
+ECU-004-D0001-I000006.jpeg,wildcat,0.996,
+ECU-004-D0001-I000006.jpeg,cat,0.996,
+ECU-004-D0001-I000006.jpeg,feline,0.996,
+ECU-004-D0001-I000006.jpeg,carnivore,0.997,
+ECU-004-D0001-I000006.jpeg,mammal,0.997,
+ECU-004-D0001-I000006.jpeg,animal,0.997,
+ECU-004-D0001-I000006.jpeg,margay cat,0.5,/animal/mammal/carnivore/feline/cat/wildcat/margay cat
+ECU-004-D0001-I000006.jpeg,greenishness color,0.922,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,lion,0.546,/animal/mammal/carnivore/feline/big cat/lion
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,big cat,0.601,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,feline,0.789,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,carnivore,0.792,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,mammal,0.794,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,animal,0.795,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,cougar,0.544,/animal/mammal/carnivore/feline/cat/wildcat/cougar
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,wildcat,0.679,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,cat,0.681,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,black beech,0.51,/plant/tree/black beech
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,tree,0.581,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,plant,0.581,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,bobcat,0.509,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,lynx,0.521,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,jaguarundi cat,0.502,/animal/mammal/carnivore/feline/cat/wildcat/jaguarundi cat
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,swamp birch,0.5,/plant/tree/birch/swamp birch
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,birch,0.501,
+GRID5-2015-07-22_13-44-07-CAM41978.jpg,greenishness color,0.89,
+herpailurus rojo 2478-2 zona guanaco.JPG,red fox,0.811,/animal/mammal/carnivore/canine/fox/red fox
+herpailurus rojo 2478-2 zona guanaco.JPG,fox,0.887,
+herpailurus rojo 2478-2 zona guanaco.JPG,canine,0.887,
+herpailurus rojo 2478-2 zona guanaco.JPG,carnivore,0.888,
+herpailurus rojo 2478-2 zona guanaco.JPG,mammal,0.888,
+herpailurus rojo 2478-2 zona guanaco.JPG,animal,0.888,
+herpailurus rojo 2478-2 zona guanaco.JPG,light brown color,0.995,
+Herpailurus yagouaroundi 2493-3.JPG,dugong (sea mammal),0.734,/animal/mammal/aquatic mammal/dugong (sea mammal)
+Herpailurus yagouaroundi 2493-3.JPG,aquatic mammal,0.735,
+Herpailurus yagouaroundi 2493-3.JPG,mammal,0.852,
+Herpailurus yagouaroundi 2493-3.JPG,animal,0.856,
+Herpailurus yagouaroundi 2493-3.JPG,scaly anteater,0.529,/animal/mammal/scaly anteater
+Herpailurus yagouaroundi 2493-3.JPG,Arctic fox,0.505,/animal/mammal/carnivore/canine/fox/Arctic fox
+Herpailurus yagouaroundi 2493-3.JPG,fox,0.515,
+Herpailurus yagouaroundi 2493-3.JPG,canine,0.515,
+Herpailurus yagouaroundi 2493-3.JPG,carnivore,0.526,
+Herpailurus yagouaroundi 2493-3.JPG,aardvark,0.5,/animal/mammal/aardvark
+Herpailurus yagouaroundi 2493-3.JPG,gray color,0.856,
+Herpailurus yagouaroundi 2493-3.JPG,sea green color,0.648,
+IMG_0007.JPG,hunt,0.575,/sport/outdoor sport/hunt
+IMG_0007.JPG,outdoor sport,0.575,
+IMG_0007.JPG,sport,0.575,
+IMG_0007.JPG,baboon,0.629,/animal/mammal/monkey/baboon
+IMG_0007.JPG,monkey,0.631,
+IMG_0007.JPG,mammal,0.719,
+IMG_0007.JPG,animal,0.767,
+IMG_0007.JPG,hyena,0.552,/animal/mammal/carnivore/canine/hyena
+IMG_0007.JPG,canine,0.557,
+IMG_0007.JPG,carnivore,0.558,
+IMG_0007.JPG,dog,0.522,/animal/domestic animal/dog
+IMG_0007.JPG,domestic animal,0.523,
+IMG_0007.JPG,field,0.52,/nature/field
+IMG_0007.JPG,nature,0.521,
+IMG_0007.JPG,chacma baboon,0.5,/animal/mammal/monkey/baboon/chacma baboon
+IMG_0007.JPG,black color,0.926,
+IMG_0007.JPG,gray color,0.793,
+IMG_0008.JPG,farmhand,0.717,/person/workman/laborer/farmhand
+IMG_0008.JPG,laborer,0.717,
+IMG_0008.JPG,workman,0.717,
+IMG_0008.JPG,person,0.717,
+IMG_0008.JPG,field,0.547,/nature/field
+IMG_0008.JPG,nature,0.547,
+IMG_0008.JPG,pasture,0.526,
+IMG_0008.JPG,plow horse,0.525,/animal/mammal/odd-toed ungulate (hoofed mammal)/plow horse
+IMG_0008.JPG,odd-toed ungulate (hoofed mammal),0.525,
+IMG_0008.JPG,mammal,0.526,
+IMG_0008.JPG,animal,0.527,
+IMG_0008.JPG,Corn field,0.5,
+IMG_0008.JPG,black color,0.958,
+IMG_0008.JPG,coal black color,0.699,
+IMG_0009.JPG,farmhand,0.684,/person/workman/laborer/farmhand
+IMG_0009.JPG,laborer,0.684,
+IMG_0009.JPG,workman,0.684,
+IMG_0009.JPG,person,0.684,
+IMG_0009.JPG,field,0.649,/nature/field
+IMG_0009.JPG,nature,0.649,
+IMG_0009.JPG,paddy,0.571,/food/food product/grain/rice/paddy
+IMG_0009.JPG,rice,0.571,
+IMG_0009.JPG,grain,0.571,
+IMG_0009.JPG,food product,0.571,
+IMG_0009.JPG,food,0.571,
+IMG_0009.JPG,pasture,0.5,
+IMG_0009.JPG,black color,0.921,
+IMG_0009.JPG,gray color,0.7,
+IMG_0017.JPG,zebra,0.923,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0017.JPG,odd-toed ungulate (hoofed mammal),0.948,
+IMG_0017.JPG,mammal,0.985,
+IMG_0017.JPG,animal,0.986,
+IMG_0017.JPG,tiger,0.739,/animal/mammal/carnivore/feline/big cat/tiger
+IMG_0017.JPG,big cat,0.75,
+IMG_0017.JPG,feline,0.751,
+IMG_0017.JPG,carnivore,0.754,
+IMG_0017.JPG,mountain zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0017.JPG,coal black color,0.94,
+IMG_0017.JPG,black color,0.831,
+IMG_0018.JPG,zebra,0.95,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0018.JPG,odd-toed ungulate (hoofed mammal),0.967,
+IMG_0018.JPG,mammal,0.985,
+IMG_0018.JPG,animal,0.986,
+IMG_0018.JPG,tiger,0.589,/animal/mammal/carnivore/feline/big cat/tiger
+IMG_0018.JPG,big cat,0.595,
+IMG_0018.JPG,feline,0.597,
+IMG_0018.JPG,carnivore,0.603,
+IMG_0018.JPG,mountain zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0018.JPG,black color,0.923,
+IMG_0018.JPG,coal black color,0.917,
+IMG_0019.JPG,common zebra,0.886,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0019.JPG,odd-toed ungulate (hoofed mammal),0.978,
+IMG_0019.JPG,mammal,0.978,
+IMG_0019.JPG,animal,0.979,
+IMG_0019.JPG,zebra,0.728,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0019.JPG,mountain zebra,0.52,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0019.JPG,veld,0.5,
+IMG_0019.JPG,gray color,0.959,
+IMG_0020.JPG,common zebra,0.866,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0020.JPG,odd-toed ungulate (hoofed mammal),0.986,
+IMG_0020.JPG,mammal,0.986,
+IMG_0020.JPG,animal,0.987,
+IMG_0020.JPG,zebra,0.769,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0020.JPG,mountain zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0020.JPG,gray color,0.933,
+IMG_0020.JPG,black color,0.646,
+IMG_0021.JPG,common zebra,0.811,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0021.JPG,odd-toed ungulate (hoofed mammal),0.968,
+IMG_0021.JPG,mammal,0.968,
+IMG_0021.JPG,animal,0.969,
+IMG_0021.JPG,zebra,0.74,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0021.JPG,mountain zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0021.JPG,gray color,0.936,
+IMG_0021.JPG,black color,0.633,
+IMG_0022.JPG,covered wagon,0.629,/vehicle/wheeled vehicle/wagon/covered wagon
+IMG_0022.JPG,wagon,0.725,
+IMG_0022.JPG,wheeled vehicle,0.725,
+IMG_0022.JPG,vehicle,0.725,
+IMG_0022.JPG,common zebra,0.532,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0022.JPG,odd-toed ungulate (hoofed mammal),0.626,
+IMG_0022.JPG,mammal,0.714,
+IMG_0022.JPG,animal,0.716,
+IMG_0022.JPG,wagon wheel,0.519,/mechanical device/machine/wheel/wagon wheel
+IMG_0022.JPG,wheel,0.538,
+IMG_0022.JPG,machine,0.538,
+IMG_0022.JPG,mechanical device,0.538,
+IMG_0022.JPG,tiger,0.514,/animal/mammal/carnivore/feline/big cat/tiger
+IMG_0022.JPG,big cat,0.522,
+IMG_0022.JPG,feline,0.525,
+IMG_0022.JPG,carnivore,0.526,
+IMG_0022.JPG,veld,0.504,
+IMG_0022.JPG,zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0022.JPG,gray color,0.971,
+IMG_0023.JPG,common zebra,0.741,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0023.JPG,odd-toed ungulate (hoofed mammal),0.856,
+IMG_0023.JPG,mammal,0.888,
+IMG_0023.JPG,animal,0.89,
+IMG_0023.JPG,zebra,0.668,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0023.JPG,veld,0.594,
+IMG_0023.JPG,tiger,0.5,/animal/mammal/carnivore/feline/big cat/tiger
+IMG_0023.JPG,big cat,0.514,
+IMG_0023.JPG,feline,0.519,
+IMG_0023.JPG,carnivore,0.521,
+IMG_0023.JPG,gray color,0.942,
+IMG_0023.JPG,black color,0.825,
+IMG_0024.JPG,pasture,0.651,
+IMG_0024.JPG,cow,0.573,/animal/mammal/cow
+IMG_0024.JPG,mammal,0.726,
+IMG_0024.JPG,animal,0.738,
+IMG_0024.JPG,cattle,0.5,/animal/mammal/ruminant/cattle
+IMG_0024.JPG,ruminant,0.541,
+IMG_0024.JPG,black color,0.938,
+IMG_0024.JPG,alabaster color,0.706,
+IMG_0025.JPG,common zebra,0.944,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0025.JPG,odd-toed ungulate (hoofed mammal),0.983,
+IMG_0025.JPG,mammal,0.983,
+IMG_0025.JPG,animal,0.983,
+IMG_0025.JPG,zebra,0.613,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0025.JPG,gray color,0.862,
+IMG_0025.JPG,black color,0.757,
+IMG_0026.JPG,common zebra,0.903,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0026.JPG,odd-toed ungulate (hoofed mammal),0.972,
+IMG_0026.JPG,mammal,0.972,
+IMG_0026.JPG,animal,0.972,
+IMG_0026.JPG,zebra,0.695,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0026.JPG,gray color,0.853,
+IMG_0026.JPG,coal black color,0.82,
+IMG_0027.JPG,common zebra,0.93,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0027.JPG,odd-toed ungulate (hoofed mammal),0.995,
+IMG_0027.JPG,mammal,0.995,
+IMG_0027.JPG,animal,0.995,
+IMG_0027.JPG,zebra,0.789,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0027.JPG,mountain zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0027.JPG,gray color,0.869,
+IMG_0027.JPG,black color,0.774,
+IMG_0028.JPG,zebra,0.812,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0028.JPG,odd-toed ungulate (hoofed mammal),0.972,
+IMG_0028.JPG,mammal,0.972,
+IMG_0028.JPG,animal,0.972,
+IMG_0028.JPG,common zebra,0.676,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0028.JPG,mountain zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0028.JPG,coal black color,0.81,
+IMG_0028.JPG,black color,0.682,
+IMG_0091.JPG,zebra,0.922,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0091.JPG,odd-toed ungulate (hoofed mammal),0.993,
+IMG_0091.JPG,mammal,0.993,
+IMG_0091.JPG,animal,0.993,
+IMG_0091.JPG,common zebra,0.734,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0091.JPG,mountain zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0091.JPG,gray color,0.912,
+IMG_0091.JPG,coal black color,0.593,
+IMG_0092.JPG,zebra,0.953,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0092.JPG,odd-toed ungulate (hoofed mammal),0.989,
+IMG_0092.JPG,mammal,0.989,
+IMG_0092.JPG,animal,0.989,
+IMG_0092.JPG,common zebra,0.648,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0092.JPG,coal black color,0.876,
+IMG_0092.JPG,black color,0.75,
+IMG_0093.JPG,zebra,0.867,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0093.JPG,odd-toed ungulate (hoofed mammal),0.927,
+IMG_0093.JPG,mammal,0.927,
+IMG_0093.JPG,animal,0.927,
+IMG_0093.JPG,common zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0093.JPG,black color,0.864,
+IMG_0093.JPG,coal black color,0.855,
+IMG_0094.JPG,zebra,0.9,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0094.JPG,odd-toed ungulate (hoofed mammal),0.951,
+IMG_0094.JPG,mammal,0.951,
+IMG_0094.JPG,animal,0.951,
+IMG_0094.JPG,grevy's zebra,0.551,/animal/mammal/odd-toed ungulate (hoofed mammal)/grevy's zebra
+IMG_0094.JPG,mountain zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0094.JPG,coal black color,0.965,
+IMG_0094.JPG,black color,0.883,
+IMG_0095.JPG,zebra,0.893,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0095.JPG,odd-toed ungulate (hoofed mammal),0.992,
+IMG_0095.JPG,mammal,0.992,
+IMG_0095.JPG,animal,0.992,
+IMG_0095.JPG,grevy's zebra,0.803,/animal/mammal/odd-toed ungulate (hoofed mammal)/grevy's zebra
+IMG_0095.JPG,mountain zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0095.JPG,coal black color,0.961,
+IMG_0095.JPG,black color,0.893,
+IMG_0096.JPG,zebra,0.916,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0096.JPG,odd-toed ungulate (hoofed mammal),0.934,
+IMG_0096.JPG,mammal,0.934,
+IMG_0096.JPG,animal,0.934,
+IMG_0096.JPG,common zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0096.JPG,coal black color,0.966,
+IMG_0096.JPG,black color,0.916,
+IMG_0097.JPG,zebra,0.96,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0097.JPG,odd-toed ungulate (hoofed mammal),0.96,
+IMG_0097.JPG,mammal,0.961,
+IMG_0097.JPG,animal,0.962,
+IMG_0097.JPG,black color,0.979,
+IMG_0097.JPG,coal black color,0.877,
+IMG_0098.JPG,coal black color,0.792,
+IMG_0098.JPG,black color,0.687,
+IMG_0098.JPG,referee,0.5,/person/referee
+IMG_0098.JPG,person,0.514,
+IMG_0100.JPG,zebra,0.854,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0100.JPG,odd-toed ungulate (hoofed mammal),0.959,
+IMG_0100.JPG,mammal,0.959,
+IMG_0100.JPG,animal,0.96,
+IMG_0100.JPG,mountain zebra,0.645,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0100.JPG,common zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0100.JPG,coal black color,0.956,
+IMG_0100.JPG,black color,0.911,
+IMG_0101.JPG,zebra,0.877,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0101.JPG,odd-toed ungulate (hoofed mammal),0.959,
+IMG_0101.JPG,mammal,0.959,
+IMG_0101.JPG,animal,0.959,
+IMG_0101.JPG,common zebra,0.602,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0101.JPG,mountain zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/mountain zebra
+IMG_0101.JPG,black color,0.94,
+IMG_0101.JPG,coal black color,0.936,
+IMG_0102.JPG,zebra,0.786,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0102.JPG,odd-toed ungulate (hoofed mammal),0.786,
+IMG_0102.JPG,mammal,0.786,
+IMG_0102.JPG,animal,0.894,
+IMG_0102.JPG,neritina (animal with shell),0.537,/animal/invertebrate/shellfish/gastropod (animal with a shell)/seasnail/neritina (animal with shell)
+IMG_0102.JPG,seasnail,0.537,
+IMG_0102.JPG,gastropod (animal with a shell),0.542,
+IMG_0102.JPG,shellfish,0.544,
+IMG_0102.JPG,invertebrate,0.544,
+IMG_0102.JPG,sheepshead,0.5,/animal/aquatic vertebrate/fish/spiny-finned fish/sheepshead
+IMG_0102.JPG,spiny-finned fish,0.5,
+IMG_0102.JPG,fish,0.508,
+IMG_0102.JPG,aquatic vertebrate,0.508,
+IMG_0102.JPG,black color,0.962,
+IMG_0102.JPG,coal black color,0.917,
+IMG_0125.JPG,zebra,0.893,/animal/mammal/odd-toed ungulate (hoofed mammal)/zebra
+IMG_0125.JPG,odd-toed ungulate (hoofed mammal),0.922,
+IMG_0125.JPG,mammal,0.947,
+IMG_0125.JPG,animal,0.95,
+IMG_0125.JPG,Tasmanian wolf,0.527,/animal/mammal/pouched mammal/Tasmanian wolf
+IMG_0125.JPG,pouched mammal,0.527,
+IMG_0125.JPG,common zebra,0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/common zebra
+IMG_0125.JPG,black color,0.993,
+IMG_0214.JPG,deer,0.855,/animal/mammal/ruminant/deer
+IMG_0214.JPG,ruminant,0.904,
+IMG_0214.JPG,mammal,0.923,
+IMG_0214.JPG,animal,0.923,
+IMG_0214.JPG,pronghorn antelope,0.594,/animal/mammal/ruminant/pronghorn antelope
+IMG_0214.JPG,Virginia deer,0.574,/animal/mammal/ruminant/deer/Virginia deer
+IMG_0214.JPG,roe deer,0.552,/animal/mammal/ruminant/deer/roe deer
+IMG_0214.JPG,stag,0.5,/animal/mammal/stag
+IMG_0214.JPG,black color,0.952,
+IMG_0214.JPG,gray color,0.649,
+IMG_0292.JPG,African elephant,0.844,/animal/mammal/pachyderm (thick skinned hoofed)/elephant/African elephant
+IMG_0292.JPG,elephant,0.912,
+IMG_0292.JPG,pachyderm (thick skinned hoofed),0.931,
+IMG_0292.JPG,mammal,0.983,
+IMG_0292.JPG,animal,0.983,
+IMG_0292.JPG,tusker,0.692,/animal/mammal/tusker
+IMG_0292.JPG,bull,0.5,/animal/mammal/bull
+IMG_0292.JPG,coal black color,0.955,
+IMG_0292.JPG,black color,0.839,
+IMG_0293.JPG,African elephant,0.747,/animal/mammal/pachyderm (thick skinned hoofed)/elephant/African elephant
+IMG_0293.JPG,elephant,0.845,
+IMG_0293.JPG,pachyderm (thick skinned hoofed),0.879,
+IMG_0293.JPG,mammal,0.962,
+IMG_0293.JPG,animal,0.963,
+IMG_0293.JPG,tusker,0.683,/animal/mammal/tusker
+IMG_0293.JPG,coal black color,0.944,
+IMG_0293.JPG,black color,0.846,
+IMG_0294.JPG,African elephant,0.775,/animal/mammal/pachyderm (thick skinned hoofed)/elephant/African elephant
+IMG_0294.JPG,elephant,0.916,
+IMG_0294.JPG,pachyderm (thick skinned hoofed),0.949,
+IMG_0294.JPG,mammal,0.976,
+IMG_0294.JPG,animal,0.976,
+IMG_0294.JPG,tusker,0.5,/animal/mammal/tusker
+IMG_0294.JPG,coal black color,0.936,
+IMG_0294.JPG,black color,0.76,
+IMG_0302.JPG,Earthquake,0.65,
+IMG_0302.JPG,Storm,0.647,/nature/Storm
+IMG_0302.JPG,nature,0.649,
+IMG_0302.JPG,desktop,0.531,/electronic device/video display/desktop
+IMG_0302.JPG,video display,0.531,
+IMG_0302.JPG,electronic device,0.531,
+IMG_0302.JPG,Gray Sky,0.5,
+IMG_0302.JPG,gray color,1,
+IMG_0303.JPG,Wildfire,0.699,
+IMG_0303.JPG,Earthquake,0.668,
+IMG_0303.JPG,floodlight,0.569,/light source/floodlight
+IMG_0303.JPG,light source,0.569,
+IMG_0303.JPG,Lightning,0.542,/nature/Lightning
+IMG_0303.JPG,nature,0.663,
+IMG_0303.JPG,Storm,0.5,/nature/Storm
+IMG_0303.JPG,gray color,1,
+KEN-001-D0001-I000006.jpeg,hay,0.914,/food/feed/fodder/hay
+KEN-001-D0001-I000006.jpeg,fodder,0.915,
+KEN-001-D0001-I000006.jpeg,feed,0.915,
+KEN-001-D0001-I000006.jpeg,food,0.915,
+KEN-001-D0001-I000006.jpeg,pasture,0.5,
+KEN-001-D0001-I000006.jpeg,black color,0.904,
+KEN-001-D0001-I000006.jpeg,gray color,0.755,
+KEN-001-D0001-I000007.jpeg,hay,0.792,/food/feed/fodder/hay
+KEN-001-D0001-I000007.jpeg,fodder,0.793,
+KEN-001-D0001-I000007.jpeg,feed,0.793,
+KEN-001-D0001-I000007.jpeg,food,0.793,
+KEN-001-D0001-I000007.jpeg,capercaillie grouse,0.598,/animal/game/capercaillie grouse
+KEN-001-D0001-I000007.jpeg,game,0.598,
+KEN-001-D0001-I000007.jpeg,animal,0.599,
+KEN-001-D0001-I000007.jpeg,standing stone,0.5,
+KEN-001-D0001-I000007.jpeg,gray color,0.914,
+KEN-001-D0001-I000007.jpeg,black color,0.805,
+KEN-007-D0001-I000001.jpeg,Watering Hole,0.731,
+KEN-007-D0001-I000001.jpeg,field,0.546,/nature/field
+KEN-007-D0001-I000001.jpeg,nature,0.546,
+KEN-007-D0001-I000001.jpeg,emu,0.542,/animal/bird/emu
+KEN-007-D0001-I000001.jpeg,bird,0.65,
+KEN-007-D0001-I000001.jpeg,animal,0.652,
+KEN-007-D0001-I000001.jpeg,pasture,0.532,
+KEN-007-D0001-I000001.jpeg,rhea,0.5,/animal/bird/rhea
+KEN-007-D0001-I000001.jpeg,gray color,0.967,
+KEN-007-D0001-I000002.jpeg,field,0.674,/nature/field
+KEN-007-D0001-I000002.jpeg,nature,0.675,
+KEN-007-D0001-I000002.jpeg,pasture,0.662,
+KEN-007-D0001-I000002.jpeg,cow pen,0.56,/enclosure/cow pen
+KEN-007-D0001-I000002.jpeg,enclosure,0.56,
+KEN-007-D0001-I000002.jpeg,Watering Hole,0.5,
+KEN-007-D0001-I000002.jpeg,gray color,0.952,
+KEN-007-D0001-I000003.jpeg,pasture,0.722,
+KEN-007-D0001-I000003.jpeg,field,0.637,/nature/field
+KEN-007-D0001-I000003.jpeg,nature,0.637,
+KEN-007-D0001-I000003.jpeg,Watering Hole,0.543,
+KEN-007-D0001-I000003.jpeg,farmhand,0.5,/person/workman/laborer/farmhand
+KEN-007-D0001-I000003.jpeg,laborer,0.501,
+KEN-007-D0001-I000003.jpeg,workman,0.501,
+KEN-007-D0001-I000003.jpeg,person,0.501,
+KEN-007-D0001-I000003.jpeg,gray color,0.97,
+KEN-007-D0001-I000004.jpeg,field,0.655,/nature/field
+KEN-007-D0001-I000004.jpeg,nature,0.655,
+KEN-007-D0001-I000004.jpeg,pasture,0.526,
+KEN-007-D0001-I000004.jpeg,gray color,0.925,
+KEN-007-D0001-I000004.jpeg,black color,0.589,
+KEN-007-D0001-I000005.jpeg,field,0.784,/nature/field
+KEN-007-D0001-I000005.jpeg,nature,0.784,
+KEN-007-D0001-I000005.jpeg,pasture,0.718,
+KEN-007-D0001-I000005.jpeg,Marsh,0.5,
+KEN-007-D0001-I000005.jpeg,gray color,0.931,
+KEN-007-D0001-I000005.jpeg,black color,0.613,
+KEN-007-D0001-I000006.jpeg,field,0.761,/nature/field
+KEN-007-D0001-I000006.jpeg,nature,0.761,
+KEN-007-D0001-I000006.jpeg,pasture,0.642,
+KEN-007-D0001-I000006.jpeg,Corn field,0.55,
+KEN-007-D0001-I000006.jpeg,Wheat Field,0.503,
+KEN-007-D0001-I000006.jpeg,Marsh,0.5,
+KEN-007-D0001-I000006.jpeg,gray color,0.942,
+KEN-007-D0001-I000007.jpeg,field,0.721,/nature/field
+KEN-007-D0001-I000007.jpeg,nature,0.721,
+KEN-007-D0001-I000007.jpeg,pasture,0.671,
+KEN-007-D0001-I000007.jpeg,farmhand,0.5,/person/workman/laborer/farmhand
+KEN-007-D0001-I000007.jpeg,laborer,0.5,
+KEN-007-D0001-I000007.jpeg,workman,0.5,
+KEN-007-D0001-I000007.jpeg,person,0.5,
+KEN-007-D0001-I000007.jpeg,gray color,0.895,
+KEN-007-D0001-I000007.jpeg,black color,0.848,
+KEN-007-D0001-I000008.jpeg,pasture,0.816,
+KEN-007-D0001-I000008.jpeg,field,0.706,/nature/field
+KEN-007-D0001-I000008.jpeg,nature,0.706,
+KEN-007-D0001-I000008.jpeg,Watering Hole,0.5,
+KEN-007-D0001-I000008.jpeg,black color,0.889,
+KEN-007-D0001-I000008.jpeg,gray color,0.812,
+KEN-007-D0001-I000009.jpeg,pasture,0.837,
+KEN-007-D0001-I000009.jpeg,field,0.633,/nature/field
+KEN-007-D0001-I000009.jpeg,nature,0.633,
+KEN-007-D0001-I000009.jpeg,farmhand,0.5,/person/workman/laborer/farmhand
+KEN-007-D0001-I000009.jpeg,laborer,0.5,
+KEN-007-D0001-I000009.jpeg,workman,0.5,
+KEN-007-D0001-I000009.jpeg,person,0.5,
+KEN-007-D0001-I000009.jpeg,black color,0.87,
+KEN-007-D0001-I000009.jpeg,gray color,0.868,
+KEN-007-D0001-I000010.jpeg,pasture,0.888,
+KEN-007-D0001-I000010.jpeg,cow pen,0.558,/enclosure/cow pen
+KEN-007-D0001-I000010.jpeg,enclosure,0.558,
+KEN-007-D0001-I000010.jpeg,farmhand,0.5,/person/workman/laborer/farmhand
+KEN-007-D0001-I000010.jpeg,laborer,0.5,
+KEN-007-D0001-I000010.jpeg,workman,0.5,
+KEN-007-D0001-I000010.jpeg,person,0.5,
+KEN-007-D0001-I000010.jpeg,black color,0.796,
+KEN-007-D0001-I000010.jpeg,gray color,0.759,
+KEN-007-D0009-I076493.jpeg,blackbuck antelope,0.968,/animal/mammal/ruminant/antelope/blackbuck antelope
+KEN-007-D0009-I076493.jpeg,antelope,0.968,
+KEN-007-D0009-I076493.jpeg,ruminant,0.968,
+KEN-007-D0009-I076493.jpeg,mammal,0.982,
+KEN-007-D0009-I076493.jpeg,animal,0.983,
+KEN-007-D0009-I076493.jpeg,buck,0.5,/animal/mammal/buck
+KEN-007-D0009-I076493.jpeg,black color,0.869,
+KEN-007-D0009-I076493.jpeg,coal black color,0.834,
+KEN-007-D0009-I076494.jpeg,buck,0.898,/animal/mammal/buck
+KEN-007-D0009-I076494.jpeg,mammal,0.941,
+KEN-007-D0009-I076494.jpeg,animal,0.941,
+KEN-007-D0009-I076494.jpeg,blackbuck antelope,0.5,/animal/mammal/ruminant/antelope/blackbuck antelope
+KEN-007-D0009-I076494.jpeg,antelope,0.509,
+KEN-007-D0009-I076494.jpeg,ruminant,0.513,
+KEN-007-D0009-I076494.jpeg,purple color,0.709,
+KEN-007-D0009-I076494.jpeg,black color,0.593,
+Lagostomus maximus + raton 3733-22.JPG,genet,0.727,/animal/mammal/carnivore/genet
+Lagostomus maximus + raton 3733-22.JPG,carnivore,0.848,
+Lagostomus maximus + raton 3733-22.JPG,mammal,0.849,
+Lagostomus maximus + raton 3733-22.JPG,animal,0.856,
+Lagostomus maximus + raton 3733-22.JPG,tigress,0.518,/animal/mammal/carnivore/feline/big cat/tigress
+Lagostomus maximus + raton 3733-22.JPG,big cat,0.526,
+Lagostomus maximus + raton 3733-22.JPG,feline,0.672,
+Lagostomus maximus + raton 3733-22.JPG,alley cat,0.5,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+Lagostomus maximus + raton 3733-22.JPG,domestic cat,0.524,
+Lagostomus maximus + raton 3733-22.JPG,cat,0.557,
+Lagostomus maximus + raton 3733-22.JPG,alabaster color,1,
+Lagostomus maximus 3733-16.JPG,chinchilla rodent,0.604,/animal/mammal/rodent/chinchilla rodent
+Lagostomus maximus 3733-16.JPG,rodent,0.622,
+Lagostomus maximus 3733-16.JPG,mammal,0.891,
+Lagostomus maximus 3733-16.JPG,animal,0.893,
+Lagostomus maximus 3733-16.JPG,brush kangaroo,0.592,/animal/mammal/pouched mammal/kangaroo/brush kangaroo
+Lagostomus maximus 3733-16.JPG,kangaroo,0.594,
+Lagostomus maximus 3733-16.JPG,pouched mammal,0.6,
+Lagostomus maximus 3733-16.JPG,cat,0.656,/animal/mammal/carnivore/feline/cat
+Lagostomus maximus 3733-16.JPG,feline,0.661,
+Lagostomus maximus 3733-16.JPG,carnivore,0.739,
+Lagostomus maximus 3733-16.JPG,jungle cat,0.511,/animal/mammal/carnivore/feline/cat/wildcat/jungle cat
+Lagostomus maximus 3733-16.JPG,wildcat,0.517,
+Lagostomus maximus 3733-16.JPG,Arctic fox,0.5,/animal/mammal/carnivore/canine/fox/Arctic fox
+Lagostomus maximus 3733-16.JPG,fox,0.513,
+Lagostomus maximus 3733-16.JPG,canine,0.514,
+Lagostomus maximus 3733-16.JPG,gray color,0.944,
+Lagostomus maximus 3733-16.JPG,ash grey color,0.917,
+Lagostomus maximus 3733-17.JPG,bettong  kangaroo,0.777,/animal/mammal/pouched mammal/kangaroo/bettong  kangaroo
+Lagostomus maximus 3733-17.JPG,kangaroo,0.84,
+Lagostomus maximus 3733-17.JPG,pouched mammal,0.873,
+Lagostomus maximus 3733-17.JPG,mammal,0.908,
+Lagostomus maximus 3733-17.JPG,animal,0.908,
+Lagostomus maximus 3733-17.JPG,brush kangaroo,0.559,/animal/mammal/pouched mammal/kangaroo/brush kangaroo
+Lagostomus maximus 3733-17.JPG,jird (gerbil) rodent,0.542,/animal/mammal/rodent/jird (gerbil) rodent
+Lagostomus maximus 3733-17.JPG,rodent,0.569,
+Lagostomus maximus 3733-17.JPG,flying opossum,0.5,/animal/mammal/pouched mammal/flying opossum
+Lagostomus maximus 3733-17.JPG,ash grey color,0.933,
+Lagostomus maximus 3733-17.JPG,gray color,0.892,
+Lagostomus maximus 3733-21.JPG,cat,0.894,/animal/mammal/carnivore/feline/cat
+Lagostomus maximus 3733-21.JPG,feline,0.898,
+Lagostomus maximus 3733-21.JPG,carnivore,0.898,
+Lagostomus maximus 3733-21.JPG,mammal,0.944,
+Lagostomus maximus 3733-21.JPG,animal,0.945,
+Lagostomus maximus 3733-21.JPG,tamarisk gerbil rodent,0.546,/animal/mammal/rodent/tamarisk gerbil rodent
+Lagostomus maximus 3733-21.JPG,rodent,0.673,
+Lagostomus maximus 3733-21.JPG,sand cat,0.536,/animal/mammal/carnivore/feline/cat/wildcat/sand cat
+Lagostomus maximus 3733-21.JPG,wildcat,0.552,
+Lagostomus maximus 3733-21.JPG,mouser cat,0.506,/animal/mammal/carnivore/feline/cat/domestic cat/mouser cat
+Lagostomus maximus 3733-21.JPG,domestic cat,0.679,
+Lagostomus maximus 3733-21.JPG,alley cat,0.5,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+Lagostomus maximus 3733-21.JPG,jird (gerbil) rodent,0.5,/animal/mammal/rodent/jird (gerbil) rodent
+Lagostomus maximus 3733-21.JPG,alabaster color,0.899,
+Lagostomus maximus 3733-21.JPG,ash grey color,0.671,
+Lagostomus maximus 3733-28.JPG,brush kangaroo,0.893,/animal/mammal/pouched mammal/kangaroo/brush kangaroo
+Lagostomus maximus 3733-28.JPG,kangaroo,0.929,
+Lagostomus maximus 3733-28.JPG,pouched mammal,0.93,
+Lagostomus maximus 3733-28.JPG,mammal,0.958,
+Lagostomus maximus 3733-28.JPG,animal,0.958,
+Lagostomus maximus 3733-28.JPG,Arctic fox,0.551,/animal/mammal/carnivore/canine/fox/Arctic fox
+Lagostomus maximus 3733-28.JPG,fox,0.559,
+Lagostomus maximus 3733-28.JPG,canine,0.559,
+Lagostomus maximus 3733-28.JPG,carnivore,0.56,
+Lagostomus maximus 3733-28.JPG,bettong  kangaroo,0.5,/animal/mammal/pouched mammal/kangaroo/bettong  kangaroo
+Lagostomus maximus 3733-28.JPG,alabaster color,0.913,
+Lagostomus maximus 3733-28.JPG,gray color,0.838,
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,native cat,0.797,/animal/mammal/pouched mammal/native cat
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,pouched mammal,0.861,
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,mammal,0.928,
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,animal,0.928,
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,bettong  kangaroo,0.562,/animal/mammal/pouched mammal/kangaroo/bettong  kangaroo
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,kangaroo,0.562,
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,deer mouse,0.531,/animal/mammal/rodent/mouse/deer mouse
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,mouse,0.54,
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,rodent,0.693,
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,eastern grey squirrel,0.5,/animal/mammal/rodent/squirrel/tree squirrel/eastern grey squirrel
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,tree squirrel,0.508,
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,squirrel,0.532,
+Lagostomus maximus K viscachal 16-05 3733-15.JPG,gray color,0.997,
+Lagostomus maximus K vizcachal 21-05-05 3423-16.JPG,tamarisk gerbil rodent,0.892,/animal/mammal/rodent/tamarisk gerbil rodent
+Lagostomus maximus K vizcachal 21-05-05 3423-16.JPG,rodent,0.915,
+Lagostomus maximus K vizcachal 21-05-05 3423-16.JPG,mammal,0.932,
+Lagostomus maximus K vizcachal 21-05-05 3423-16.JPG,animal,0.932,
+Lagostomus maximus K vizcachal 21-05-05 3423-16.JPG,jird (gerbil) rodent,0.502,/animal/mammal/rodent/jird (gerbil) rodent
+Lagostomus maximus K vizcachal 21-05-05 3423-16.JPG,galago (primate),0.5,/animal/mammal/galago (primate)
+Lagostomus maximus K vizcachal 21-05-05 3423-16.JPG,alabaster color,0.997,
+Lagostomus maximus K vizcachal 21-05-05 3423-17.JPG,cat,0.964,/animal/mammal/carnivore/feline/cat
+Lagostomus maximus K vizcachal 21-05-05 3423-17.JPG,feline,0.965,
+Lagostomus maximus K vizcachal 21-05-05 3423-17.JPG,carnivore,0.965,
+Lagostomus maximus K vizcachal 21-05-05 3423-17.JPG,mammal,0.965,
+Lagostomus maximus K vizcachal 21-05-05 3423-17.JPG,animal,0.965,
+Lagostomus maximus K vizcachal 21-05-05 3423-17.JPG,alley cat,0.5,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+Lagostomus maximus K vizcachal 21-05-05 3423-17.JPG,domestic cat,0.552,
+Lagostomus maximus K vizcachal 21-05-05 3423-17.JPG,gray color,0.992,
+Lagostomus maximus K vizcachal 21-05-05 3423-19.JPG,cat,0.974,/animal/mammal/carnivore/feline/cat
+Lagostomus maximus K vizcachal 21-05-05 3423-19.JPG,feline,0.975,
+Lagostomus maximus K vizcachal 21-05-05 3423-19.JPG,carnivore,0.975,
+Lagostomus maximus K vizcachal 21-05-05 3423-19.JPG,mammal,0.975,
+Lagostomus maximus K vizcachal 21-05-05 3423-19.JPG,animal,0.975,
+Lagostomus maximus K vizcachal 21-05-05 3423-19.JPG,alley cat,0.703,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+Lagostomus maximus K vizcachal 21-05-05 3423-19.JPG,domestic cat,0.754,
+Lagostomus maximus K vizcachal 21-05-05 3423-19.JPG,ash grey color,0.891,
+Lagostomus maximus K vizcachal 21-05-05 3423-19.JPG,gray color,0.852,
+Lagostomus maximus K vizcachal 21-05-05 3423-21.JPG,alley cat,0.838,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+Lagostomus maximus K vizcachal 21-05-05 3423-21.JPG,domestic cat,0.86,
+Lagostomus maximus K vizcachal 21-05-05 3423-21.JPG,cat,0.969,
+Lagostomus maximus K vizcachal 21-05-05 3423-21.JPG,feline,0.972,
+Lagostomus maximus K vizcachal 21-05-05 3423-21.JPG,carnivore,0.972,
+Lagostomus maximus K vizcachal 21-05-05 3423-21.JPG,mammal,0.972,
+Lagostomus maximus K vizcachal 21-05-05 3423-21.JPG,animal,0.972,
+Lagostomus maximus K vizcachal 21-05-05 3423-21.JPG,gray color,0.968,
+Lagostomus maximus K vizcachal 21-05-05 3423-21.JPG,ash grey color,0.804,
+Lagostomus maximus K vizcachal 21-05-05 3423-23.JPG,snowshoe hare,0.758,/animal/mammal/gnawing mammal/hare/snowshoe hare
+Lagostomus maximus K vizcachal 21-05-05 3423-23.JPG,hare,0.775,
+Lagostomus maximus K vizcachal 21-05-05 3423-23.JPG,gnawing mammal,0.961,
+Lagostomus maximus K vizcachal 21-05-05 3423-23.JPG,mammal,0.961,
+Lagostomus maximus K vizcachal 21-05-05 3423-23.JPG,animal,0.961,
+Lagostomus maximus K vizcachal 21-05-05 3423-23.JPG,European rabbit,0.706,/animal/mammal/gnawing mammal/rabbit/European rabbit
+Lagostomus maximus K vizcachal 21-05-05 3423-23.JPG,rabbit,0.819,
+Lagostomus maximus K vizcachal 21-05-05 3423-23.JPG,wood rabbit,0.5,/animal/mammal/gnawing mammal/rabbit/wood rabbit
+Lagostomus maximus K vizcachal 21-05-05 3423-23.JPG,gray color,0.939,
+Lagostomus maximus K vizcachal 21-05-05 3423-23.JPG,alabaster color,0.875,
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,bettong  kangaroo,0.738,/animal/mammal/pouched mammal/kangaroo/bettong  kangaroo
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,kangaroo,0.738,
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,pouched mammal,0.739,
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,mammal,0.917,
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,animal,0.917,
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,tamarisk gerbil rodent,0.685,/animal/mammal/rodent/tamarisk gerbil rodent
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,rodent,0.821,
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,brown rat,0.503,/animal/mammal/rodent/rat/brown rat
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,rat,0.516,
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,gerbil rodent,0.5,/animal/mammal/rodent/gerbil rodent
+Lagostomus maximus K vizcachal 21-05-05 3423-25.JPG,gray color,0.979,
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,bettong  kangaroo,0.796,/animal/mammal/pouched mammal/kangaroo/bettong  kangaroo
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,kangaroo,0.892,
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,pouched mammal,0.892,
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,mammal,0.938,
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,animal,0.939,
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,cat,0.529,/animal/mammal/carnivore/feline/cat
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,feline,0.53,
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,carnivore,0.531,
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,pademelon,0.5,/animal/mammal/pouched mammal/kangaroo/brush kangaroo/pademelon
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,brush kangaroo,0.558,
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,gray color,0.912,
+Lagostomus maximus K vizcachal 21-05-05 3423-36.JPG,ash grey color,0.628,
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,jird (gerbil) rodent,0.561,/animal/mammal/rodent/jird (gerbil) rodent
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,rodent,0.747,
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,mammal,0.899,
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,animal,0.9,
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,tamarisk gerbil rodent,0.508,/animal/mammal/rodent/tamarisk gerbil rodent
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,alley cat,0.5,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,domestic cat,0.544,
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,cat,0.709,
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,feline,0.712,
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,carnivore,0.712,
+Lagostomus maximus K vizcachal 21-05-05 3423-6.JPG,gray color,0.97,
+M.gouazoubira 2004-01-03 5709-22 S.Salitral-6000.JPG,barking deer,0.742,/animal/mammal/ruminant/deer/barking deer
+M.gouazoubira 2004-01-03 5709-22 S.Salitral-6000.JPG,deer,0.935,
+M.gouazoubira 2004-01-03 5709-22 S.Salitral-6000.JPG,ruminant,0.935,
+M.gouazoubira 2004-01-03 5709-22 S.Salitral-6000.JPG,mammal,0.957,
+M.gouazoubira 2004-01-03 5709-22 S.Salitral-6000.JPG,animal,0.957,
+M.gouazoubira 2004-01-03 5709-22 S.Salitral-6000.JPG,sambar deer,0.702,/animal/mammal/ruminant/deer/sambar deer
+M.gouazoubira 2004-01-03 5709-22 S.Salitral-6000.JPG,buck,0.524,/animal/mammal/buck
+M.gouazoubira 2004-01-03 5709-22 S.Salitral-6000.JPG,Virginia deer,0.5,/animal/mammal/ruminant/deer/Virginia deer
+M.gouazoubira 2004-01-03 5709-22 S.Salitral-6000.JPG,reddish brown color,0.857,
+M.gouazoubira 2004-01-03 5709-22 S.Salitral-6000.JPG,gray color,0.526,
+ogeoffrogyi BP 1200 3729-26.JPG,coyote,0.946,/animal/mammal/carnivore/canine/wolf/coyote
+ogeoffrogyi BP 1200 3729-26.JPG,wolf,0.947,
+ogeoffrogyi BP 1200 3729-26.JPG,canine,0.947,
+ogeoffrogyi BP 1200 3729-26.JPG,carnivore,0.965,
+ogeoffrogyi BP 1200 3729-26.JPG,mammal,0.965,
+ogeoffrogyi BP 1200 3729-26.JPG,animal,0.965,
+ogeoffrogyi BP 1200 3729-26.JPG,bobcat,0.5,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+ogeoffrogyi BP 1200 3729-26.JPG,lynx,0.508,
+ogeoffrogyi BP 1200 3729-26.JPG,wildcat,0.511,
+ogeoffrogyi BP 1200 3729-26.JPG,cat,0.511,
+ogeoffrogyi BP 1200 3729-26.JPG,feline,0.511,
+ogeoffrogyi BP 1200 3729-26.JPG,gray color,0.966,
+ogeoffroyi  0823-13 Norte-5.JPG,striped hyena,0.825,/animal/mammal/carnivore/canine/hyena/striped hyena
+ogeoffroyi  0823-13 Norte-5.JPG,hyena,0.904,
+ogeoffroyi  0823-13 Norte-5.JPG,canine,0.904,
+ogeoffroyi  0823-13 Norte-5.JPG,carnivore,0.972,
+ogeoffroyi  0823-13 Norte-5.JPG,mammal,0.972,
+ogeoffroyi  0823-13 Norte-5.JPG,animal,0.972,
+ogeoffroyi  0823-13 Norte-5.JPG,snow leopard,0.647,/animal/mammal/carnivore/feline/big cat/snow leopard
+ogeoffroyi  0823-13 Norte-5.JPG,big cat,0.65,
+ogeoffroyi  0823-13 Norte-5.JPG,feline,0.655,
+ogeoffroyi  0823-13 Norte-5.JPG,genet,0.542,/animal/mammal/carnivore/genet
+ogeoffroyi  0823-13 Norte-5.JPG,spotted hyena,0.5,/animal/mammal/carnivore/canine/hyena/spotted hyena
+ogeoffroyi  0823-13 Norte-5.JPG,gray color,0.984,
+ogeoffroyi  4963-12 Norte-1.JPG,crocodilian reptile,0.647,/animal/reptile/crocodilian reptile
+ogeoffroyi  4963-12 Norte-1.JPG,reptile,0.65,
+ogeoffroyi  4963-12 Norte-1.JPG,animal,0.751,
+ogeoffroyi  4963-12 Norte-1.JPG,burrow,0.545,/nature/burrow
+ogeoffroyi  4963-12 Norte-1.JPG,nature,0.617,
+ogeoffroyi  4963-12 Norte-1.JPG,caiman reptile,0.534,/animal/reptile/crocodilian reptile/caiman reptile
+ogeoffroyi  4963-12 Norte-1.JPG,bobcat,0.528,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+ogeoffroyi  4963-12 Norte-1.JPG,lynx,0.528,
+ogeoffroyi  4963-12 Norte-1.JPG,wildcat,0.531,
+ogeoffroyi  4963-12 Norte-1.JPG,cat,0.531,
+ogeoffroyi  4963-12 Norte-1.JPG,feline,0.531,
+ogeoffroyi  4963-12 Norte-1.JPG,carnivore,0.596,
+ogeoffroyi  4963-12 Norte-1.JPG,mammal,0.596,
+ogeoffroyi  4963-12 Norte-1.JPG,cavern,0.512,/nature/cavern
+ogeoffroyi  4963-12 Norte-1.JPG,grey fox,0.5,/animal/mammal/carnivore/canine/fox/grey fox
+ogeoffroyi  4963-12 Norte-1.JPG,fox,0.502,
+ogeoffroyi  4963-12 Norte-1.JPG,canine,0.502,
+ogeoffroyi  4963-12 Norte-1.JPG,greenishness color,0.834,
+ogeoffroyi  4963-12 Norte-1.JPG,sea green color,0.794,
+Ogeoffroyi 2493-6.JPG,cat,0.95,/animal/mammal/carnivore/feline/cat
+Ogeoffroyi 2493-6.JPG,feline,0.951,
+Ogeoffroyi 2493-6.JPG,carnivore,0.973,
+Ogeoffroyi 2493-6.JPG,mammal,0.973,
+Ogeoffroyi 2493-6.JPG,animal,0.973,
+Ogeoffroyi 2493-6.JPG,alley cat,0.535,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+Ogeoffroyi 2493-6.JPG,domestic cat,0.635,
+Ogeoffroyi 2493-6.JPG,genet,0.5,/animal/mammal/carnivore/genet
+Ogeoffroyi 2493-6.JPG,gray color,0.991,
+Ogeoffroyi 2493-7.JPG,lamb,0.537,/animal/young/lamb
+Ogeoffroyi 2493-7.JPG,young,0.558,
+Ogeoffroyi 2493-7.JPG,animal,0.853,
+Ogeoffroyi 2493-7.JPG,Manx cat,0.523,/animal/mammal/carnivore/feline/cat/domestic cat/Manx cat
+Ogeoffroyi 2493-7.JPG,domestic cat,0.54,
+Ogeoffroyi 2493-7.JPG,cat,0.636,
+Ogeoffroyi 2493-7.JPG,feline,0.642,
+Ogeoffroyi 2493-7.JPG,carnivore,0.745,
+Ogeoffroyi 2493-7.JPG,mammal,0.797,
+Ogeoffroyi 2493-7.JPG,timber wolf,0.507,/animal/mammal/carnivore/canine/wolf/timber wolf
+Ogeoffroyi 2493-7.JPG,wolf,0.552,
+Ogeoffroyi 2493-7.JPG,canine,0.552,
+Ogeoffroyi 2493-7.JPG,Angora goat,0.5,/animal/mammal/ruminant/goat/Angora goat
+Ogeoffroyi 2493-7.JPG,goat,0.504,
+Ogeoffroyi 2493-7.JPG,ruminant,0.514,
+Ogeoffroyi 2493-7.JPG,gray color,0.917,
+Ogeoffroyi 2493-7.JPG,black color,0.716,
+Ogeoffroyi 2498-3.JPG,cheetah,0.87,/animal/mammal/carnivore/feline/big cat/cheetah
+Ogeoffroyi 2498-3.JPG,big cat,0.944,
+Ogeoffroyi 2498-3.JPG,feline,0.961,
+Ogeoffroyi 2498-3.JPG,carnivore,0.963,
+Ogeoffroyi 2498-3.JPG,mammal,0.963,
+Ogeoffroyi 2498-3.JPG,animal,0.963,
+Ogeoffroyi 2498-3.JPG,leopard,0.727,/animal/mammal/carnivore/feline/big cat/leopard
+Ogeoffroyi 2498-3.JPG,panther cat,0.5,/animal/mammal/carnivore/feline/cat/wildcat/panther cat
+Ogeoffroyi 2498-3.JPG,wildcat,0.503,
+Ogeoffroyi 2498-3.JPG,cat,0.503,
+Ogeoffroyi 2498-3.JPG,beige color,0.917,
+Ogeoffroyi 2498-3.JPG,greenishness color,0.592,
+Ogeoffroyi 2502-20.JPG,Arctic fox,0.877,/animal/mammal/carnivore/canine/fox/Arctic fox
+Ogeoffroyi 2502-20.JPG,fox,0.879,
+Ogeoffroyi 2502-20.JPG,canine,0.91,
+Ogeoffroyi 2502-20.JPG,carnivore,0.945,
+Ogeoffroyi 2502-20.JPG,mammal,0.946,
+Ogeoffroyi 2502-20.JPG,animal,0.947,
+Ogeoffroyi 2502-20.JPG,cat,0.621,/animal/mammal/carnivore/feline/cat
+Ogeoffroyi 2502-20.JPG,feline,0.627,
+Ogeoffroyi 2502-20.JPG,white wolf,0.5,/animal/mammal/carnivore/canine/wolf/white wolf
+Ogeoffroyi 2502-20.JPG,wolf,0.527,
+Ogeoffroyi 2502-20.JPG,gray color,0.936,
+Ogeoffroyi 2502-20.JPG,azure color,0.681,
+Ogeoffroyi 3717-27.JPG,leopard,0.952,/animal/mammal/carnivore/feline/big cat/leopard
+Ogeoffroyi 3717-27.JPG,big cat,0.974,
+Ogeoffroyi 3717-27.JPG,feline,0.975,
+Ogeoffroyi 3717-27.JPG,carnivore,0.976,
+Ogeoffroyi 3717-27.JPG,mammal,0.976,
+Ogeoffroyi 3717-27.JPG,animal,0.976,
+Ogeoffroyi 3717-27.JPG,cheetah,0.5,/animal/mammal/carnivore/feline/big cat/cheetah
+Ogeoffroyi 3717-27.JPG,greenishness color,0.801,
+Ogeoffroyi 3717-27.JPG,beige color,0.618,
+Ogeoffroyi 3735-18.JPG,saltbush,0.611,/plant/saltbush
+Ogeoffroyi 3735-18.JPG,plant,0.755,
+Ogeoffroyi 3735-18.JPG,bush,0.566,/plant/bush
+Ogeoffroyi 3735-18.JPG,scrubland,0.52,/nature/scrubland
+Ogeoffroyi 3735-18.JPG,nature,0.52,
+Ogeoffroyi 3735-18.JPG,gidgee tree,0.5,/plant/tree/acacia/gidgee tree
+Ogeoffroyi 3735-18.JPG,acacia,0.5,
+Ogeoffroyi 3735-18.JPG,tree,0.501,
+Ogeoffroyi 3735-18.JPG,greenishness color,0.888,
+Ogeoffroyi 3735-18.JPG,beige color,0.6,
+Ogeoffroyi 3735-32.JPG,seagrass,0.714,/microorganism/algae/seagrass
+Ogeoffroyi 3735-32.JPG,algae,0.717,
+Ogeoffroyi 3735-32.JPG,microorganism,0.717,
+Ogeoffroyi 3735-32.JPG,eelgrass,0.573,/plant/eelgrass
+Ogeoffroyi 3735-32.JPG,plant,0.573,
+Ogeoffroyi 3735-32.JPG,paddlefish,0.567,/animal/aquatic vertebrate/fish/paddlefish
+Ogeoffroyi 3735-32.JPG,fish,0.649,
+Ogeoffroyi 3735-32.JPG,aquatic vertebrate,0.65,
+Ogeoffroyi 3735-32.JPG,animal,0.651,
+Ogeoffroyi 3735-32.JPG,European catfish,0.5,/animal/aquatic vertebrate/fish/catfish/European catfish
+Ogeoffroyi 3735-32.JPG,catfish,0.505,
+Ogeoffroyi 3735-32.JPG,sea green color,0.956,
+Ogeoffroyi 3735-32.JPG,gray color,0.795,
+Ogeoffroyi 3735-33.JPG,grey fox,0.68,/animal/mammal/carnivore/canine/fox/grey fox
+Ogeoffroyi 3735-33.JPG,fox,0.711,
+Ogeoffroyi 3735-33.JPG,canine,0.711,
+Ogeoffroyi 3735-33.JPG,carnivore,0.889,
+Ogeoffroyi 3735-33.JPG,mammal,0.914,
+Ogeoffroyi 3735-33.JPG,animal,0.915,
+Ogeoffroyi 3735-33.JPG,European wildcat,0.551,/animal/mammal/carnivore/feline/cat/wildcat/European wildcat
+Ogeoffroyi 3735-33.JPG,wildcat,0.758,
+Ogeoffroyi 3735-33.JPG,cat,0.77,
+Ogeoffroyi 3735-33.JPG,feline,0.778,
+Ogeoffroyi 3735-33.JPG,jungle cat,0.548,/animal/mammal/carnivore/feline/cat/wildcat/jungle cat
+Ogeoffroyi 3735-33.JPG,barking deer,0.519,/animal/mammal/ruminant/deer/barking deer
+Ogeoffroyi 3735-33.JPG,deer,0.533,
+Ogeoffroyi 3735-33.JPG,ruminant,0.535,
+Ogeoffroyi 3735-33.JPG,bobcat,0.5,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+Ogeoffroyi 3735-33.JPG,lynx,0.511,
+Ogeoffroyi 3735-33.JPG,gray color,0.862,
+Ogeoffroyi 3735-33.JPG,alabaster color,0.858,
+Ogeoffroyi 3735-36.JPG,leopard,0.846,/animal/mammal/carnivore/feline/big cat/leopard
+Ogeoffroyi 3735-36.JPG,big cat,0.857,
+Ogeoffroyi 3735-36.JPG,feline,0.921,
+Ogeoffroyi 3735-36.JPG,carnivore,0.928,
+Ogeoffroyi 3735-36.JPG,mammal,0.929,
+Ogeoffroyi 3735-36.JPG,animal,0.932,
+Ogeoffroyi 3735-36.JPG,margay cat,0.532,/animal/mammal/carnivore/feline/cat/wildcat/margay cat
+Ogeoffroyi 3735-36.JPG,wildcat,0.665,
+Ogeoffroyi 3735-36.JPG,cat,0.672,
+Ogeoffroyi 3735-36.JPG,spotted lynx,0.5,/animal/mammal/carnivore/feline/cat/wildcat/lynx/spotted lynx
+Ogeoffroyi 3735-36.JPG,lynx,0.521,
+Ogeoffroyi 3735-36.JPG,gray color,0.947,
+ogeoffroyi 4974-20 Sur-3.JPG,bobcat,0.775,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+ogeoffroyi 4974-20 Sur-3.JPG,lynx,0.802,
+ogeoffroyi 4974-20 Sur-3.JPG,wildcat,0.804,
+ogeoffroyi 4974-20 Sur-3.JPG,cat,0.805,
+ogeoffroyi 4974-20 Sur-3.JPG,feline,0.809,
+ogeoffroyi 4974-20 Sur-3.JPG,carnivore,0.809,
+ogeoffroyi 4974-20 Sur-3.JPG,mammal,0.809,
+ogeoffroyi 4974-20 Sur-3.JPG,animal,0.809,
+ogeoffroyi 4974-20 Sur-3.JPG,tumbleweed,0.713,/plant/herb/tumbleweed
+ogeoffroyi 4974-20 Sur-3.JPG,herb,0.713,
+ogeoffroyi 4974-20 Sur-3.JPG,plant,0.713,
+ogeoffroyi 4974-20 Sur-3.JPG,silverpoint,0.5,
+ogeoffroyi 4974-20 Sur-3.JPG,gray color,1,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,European wildcat,0.664,/animal/mammal/carnivore/feline/cat/wildcat/European wildcat
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,wildcat,0.732,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,cat,0.738,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,feline,0.751,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,carnivore,0.751,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,mammal,0.751,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,animal,0.886,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,amphipod (shrimp),0.575,/animal/invertebrate/amphipod (shrimp)
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,invertebrate,0.747,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,sea pen,0.557,/animal/invertebrate/coelenterate/anthozoan (marine creature)/sea pen
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,anthozoan (marine creature),0.558,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,coelenterate,0.558,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,lobster,0.504,/animal/invertebrate/lobster
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,bobcat,0.5,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,lynx,0.502,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,greenishness color,0.882,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-30.JPG,alabaster color,0.76,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,cat,0.887,/animal/mammal/carnivore/feline/cat
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,feline,0.894,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,carnivore,0.894,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,mammal,0.919,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,animal,0.92,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,mouser cat,0.587,/animal/mammal/carnivore/feline/cat/domestic cat/mouser cat
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,domestic cat,0.678,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,chinchilla rodent,0.5,/animal/mammal/rodent/chinchilla rodent
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,rodent,0.504,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,gray color,0.919,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-31.JPG,ash grey color,0.677,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,spotted lynx,0.69,/animal/mammal/carnivore/feline/cat/wildcat/lynx/spotted lynx
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,lynx,0.802,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,wildcat,0.908,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,cat,0.955,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,feline,0.964,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,carnivore,0.965,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,mammal,0.965,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,animal,0.966,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,margay cat,0.595,/animal/mammal/carnivore/feline/cat/wildcat/margay cat
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,bobcat,0.546,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,Egyptian cat,0.544,/animal/mammal/carnivore/feline/cat/domestic cat/Egyptian cat
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,domestic cat,0.633,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,Pallas's cat,0.5,/animal/mammal/carnivore/feline/cat/wildcat/Pallas's cat
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,ash grey color,0.794,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-33.JPG,beige color,0.73,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,cheetah,0.86,/animal/mammal/carnivore/feline/big cat/cheetah
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,big cat,0.941,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,feline,0.973,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,carnivore,0.98,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,mammal,0.98,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,animal,0.981,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,leopard,0.724,/animal/mammal/carnivore/feline/big cat/leopard
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,serval cat,0.519,/animal/mammal/carnivore/feline/cat/wildcat/serval cat
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,wildcat,0.678,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,cat,0.678,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,bobcat,0.5,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,lynx,0.504,
+Oncifelis geoffroyi B. Rococo 5-05-05 3731-34.JPG,beige color,0.955,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,leopard,0.761,/animal/mammal/carnivore/feline/big cat/leopard
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,big cat,0.779,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,feline,0.959,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,carnivore,0.962,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,mammal,0.962,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,animal,0.963,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,margay cat,0.577,/animal/mammal/carnivore/feline/cat/wildcat/margay cat
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,wildcat,0.865,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,cat,0.867,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,spotted lynx,0.54,/animal/mammal/carnivore/feline/cat/wildcat/lynx/spotted lynx
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,lynx,0.699,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,bobcat,0.506,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,jungle cat,0.5,/animal/mammal/carnivore/feline/cat/wildcat/jungle cat
+Oncifelis geoffroyi BP 22000 14-05-05 3732-12.JPG,ivory color,0.949,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-13.JPG,skunk,0.91,/animal/mammal/carnivore/skunk
+Oncifelis geoffroyi BP 22000 14-05-05 3732-13.JPG,carnivore,0.91,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-13.JPG,mammal,0.91,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-13.JPG,animal,0.911,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-13.JPG,coal black color,0.838,
+Oncifelis geoffroyi BP 22000 14-05-05 3732-13.JPG,black color,0.775,
+P.concolor 2003-12-27 5695-14 B.Principal-6000.JPG,lion,0.784,/animal/mammal/carnivore/feline/big cat/lion
+P.concolor 2003-12-27 5695-14 B.Principal-6000.JPG,big cat,0.794,
+P.concolor 2003-12-27 5695-14 B.Principal-6000.JPG,feline,0.802,
+P.concolor 2003-12-27 5695-14 B.Principal-6000.JPG,carnivore,0.868,
+P.concolor 2003-12-27 5695-14 B.Principal-6000.JPG,mammal,0.87,
+P.concolor 2003-12-27 5695-14 B.Principal-6000.JPG,animal,0.877,
+P.concolor 2003-12-27 5695-14 B.Principal-6000.JPG,lioness,0.5,/animal/mammal/carnivore/feline/big cat/lion/lioness
+P.concolor 2003-12-27 5695-14 B.Principal-6000.JPG,alabaster color,0.994,
+P.concolor B-Rancho Chico 3715-20.JPG,dingo,0.611,/animal/mammal/carnivore/canine/wild dog/dingo
+P.concolor B-Rancho Chico 3715-20.JPG,wild dog,0.611,
+P.concolor B-Rancho Chico 3715-20.JPG,canine,0.742,
+P.concolor B-Rancho Chico 3715-20.JPG,carnivore,0.774,
+P.concolor B-Rancho Chico 3715-20.JPG,mammal,0.779,
+P.concolor B-Rancho Chico 3715-20.JPG,animal,0.863,
+P.concolor B-Rancho Chico 3715-20.JPG,cub,0.592,
+P.concolor B-Rancho Chico 3715-20.JPG,Arctic fox,0.551,/animal/mammal/carnivore/canine/fox/Arctic fox
+P.concolor B-Rancho Chico 3715-20.JPG,fox,0.557,
+P.concolor B-Rancho Chico 3715-20.JPG,suckling (mammal),0.5,/animal/young/suckling (mammal)
+P.concolor B-Rancho Chico 3715-20.JPG,young,0.591,
+P.concolor B-Rancho Chico 3715-20.JPG,alabaster color,0.964,
+P.concolor B.Solano-5000 3716-15.JPG,cat,0.71,/animal/mammal/carnivore/feline/cat
+P.concolor B.Solano-5000 3716-15.JPG,feline,0.718,
+P.concolor B.Solano-5000 3716-15.JPG,carnivore,0.719,
+P.concolor B.Solano-5000 3716-15.JPG,mammal,0.723,
+P.concolor B.Solano-5000 3716-15.JPG,animal,0.915,
+P.concolor B.Solano-5000 3716-15.JPG,lamb,0.595,/animal/young/lamb
+P.concolor B.Solano-5000 3716-15.JPG,young,0.624,
+P.concolor B.Solano-5000 3716-15.JPG,cub,0.508,
+P.concolor B.Solano-5000 3716-15.JPG,head of animal,0.5,/animal/domestic animal/head of animal
+P.concolor B.Solano-5000 3716-15.JPG,domestic animal,0.551,
+P.concolor B.Solano-5000 3716-15.JPG,black color,0.866,
+P.concolor B.Solano-5000 3716-15.JPG,coal black color,0.865,
+P.concolor B.Solano-5000 3738-2.JPG,doe,0.684,/animal/mammal/doe
+P.concolor B.Solano-5000 3738-2.JPG,mammal,0.882,
+P.concolor B.Solano-5000 3738-2.JPG,animal,0.909,
+P.concolor B.Solano-5000 3738-2.JPG,gazelle,0.591,/animal/mammal/ruminant/antelope/gazelle
+P.concolor B.Solano-5000 3738-2.JPG,antelope,0.73,
+P.concolor B.Solano-5000 3738-2.JPG,ruminant,0.732,
+P.concolor B.Solano-5000 3738-2.JPG,Thomson's gazelle,0.573,/animal/mammal/ruminant/antelope/Thomson's gazelle
+P.concolor B.Solano-5000 3738-2.JPG,buck,0.503,/animal/mammal/buck
+P.concolor B.Solano-5000 3738-2.JPG,greyhound dog,0.5,/animal/domestic animal/dog/hound dog/greyhound dog
+P.concolor B.Solano-5000 3738-2.JPG,hound dog,0.5,
+P.concolor B.Solano-5000 3738-2.JPG,dog,0.503,
+P.concolor B.Solano-5000 3738-2.JPG,domestic animal,0.504,
+P.concolor B.Solano-5000 3738-2.JPG,beige color,0.911,
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,timber wolf,0.566,/animal/mammal/carnivore/canine/wolf/timber wolf
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,wolf,0.696,
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,canine,0.697,
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,carnivore,0.698,
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,mammal,0.703,
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,animal,0.864,
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,lamb,0.554,/animal/young/lamb
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,young,0.65,
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,white wolf,0.5,/animal/mammal/carnivore/canine/wolf/white wolf
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,Siberian husky dog,0.5,/animal/domestic animal/dog/Siberian husky dog
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,dog,0.513,
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,domestic animal,0.518,
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,alabaster color,0.859,
+P.gymnocercus 2003-12-26 5701-11 S.Ana-0.JPG,azure color,0.678,
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,big game,0.609,/animal/game/big game
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,game,0.609,
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,animal,0.82,
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,jaguar,0.515,/animal/mammal/carnivore/feline/big cat/jaguar
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,big cat,0.567,
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,feline,0.631,
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,carnivore,0.742,
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,mammal,0.743,
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,raccoon,0.512,/animal/mammal/carnivore/raccoon
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,striped hyena,0.512,/animal/mammal/carnivore/canine/hyena/striped hyena
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,hyena,0.543,
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,canine,0.543,
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,cat,0.5,/animal/mammal/carnivore/feline/cat
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,gray color,0.949,
+P.onca 2003-12-20 5695-3 B.Principal-6000.JPG,azure color,0.688,
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,leopard,0.864,/animal/mammal/carnivore/feline/big cat/leopard
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,big cat,0.867,
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,feline,0.957,
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,carnivore,0.959,
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,mammal,0.959,
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,animal,0.96,
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,bobcat,0.601,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,lynx,0.634,
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,wildcat,0.657,
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,cat,0.661,
+P.onca 2004-01-08 5713-6 B. Gareca-6000.JPG,greenishness color,0.95,
+Pconcolor 2494-23.JPG,kuvasz dog,0.899,/animal/domestic animal/dog/watchdog/kuvasz dog
+Pconcolor 2494-23.JPG,watchdog,0.899,
+Pconcolor 2494-23.JPG,dog,0.9,
+Pconcolor 2494-23.JPG,domestic animal,0.9,
+Pconcolor 2494-23.JPG,animal,0.927,
+Pconcolor 2494-23.JPG,quadruped (4 legged),0.5,/animal/quadruped (4 legged)
+Pconcolor 2494-23.JPG,alabaster color,1,
+Pconcolor 2502-3.JPG,Virginia deer,0.542,/animal/mammal/ruminant/deer/Virginia deer
+Pconcolor 2502-3.JPG,deer,0.569,
+Pconcolor 2502-3.JPG,ruminant,0.571,
+Pconcolor 2502-3.JPG,mammal,0.894,
+Pconcolor 2502-3.JPG,animal,0.895,
+Pconcolor 2502-3.JPG,doe,0.528,/animal/mammal/doe
+Pconcolor 2502-3.JPG,buck,0.5,/animal/mammal/buck
+Pconcolor 2502-3.JPG,alabaster color,1,
+Pconcolor 2511-5.JPG,lioness,0.689,/animal/mammal/carnivore/feline/big cat/lion/lioness
+Pconcolor 2511-5.JPG,lion,0.832,
+Pconcolor 2511-5.JPG,big cat,0.837,
+Pconcolor 2511-5.JPG,feline,0.893,
+Pconcolor 2511-5.JPG,carnivore,0.928,
+Pconcolor 2511-5.JPG,mammal,0.93,
+Pconcolor 2511-5.JPG,animal,0.963,
+Pconcolor 2511-5.JPG,cougar,0.534,/animal/mammal/carnivore/feline/cat/wildcat/cougar
+Pconcolor 2511-5.JPG,wildcat,0.534,
+Pconcolor 2511-5.JPG,cat,0.534,
+Pconcolor 2511-5.JPG,suckling (mammal),0.533,/animal/young/suckling (mammal)
+Pconcolor 2511-5.JPG,young,0.606,
+Pconcolor 2511-5.JPG,dingo,0.5,/animal/mammal/carnivore/canine/wild dog/dingo
+Pconcolor 2511-5.JPG,wild dog,0.501,
+Pconcolor 2511-5.JPG,canine,0.501,
+Pconcolor 2511-5.JPG,beige color,0.954,
+Pconcolor 2511-5.JPG,alabaster color,0.684,
+Pconcolor 3714-17.JPG,columbian mammoth,0.647,/animal/mammal/pachyderm (thick skinned hoofed)/elephant/columbian mammoth
+Pconcolor 3714-17.JPG,elephant,0.741,
+Pconcolor 3714-17.JPG,pachyderm (thick skinned hoofed),0.745,
+Pconcolor 3714-17.JPG,mammal,0.872,
+Pconcolor 3714-17.JPG,animal,0.875,
+Pconcolor 3714-17.JPG,mastodon (extinct elephant),0.588,/animal/mammal/mastodon (extinct elephant)
+Pconcolor 3714-17.JPG,tusker,0.521,/animal/mammal/tusker
+Pconcolor 3714-17.JPG,woolly mammoth,0.52,/animal/mammal/pachyderm (thick skinned hoofed)/elephant/woolly mammoth
+Pconcolor 3714-17.JPG,painting,0.5,
+Pconcolor 3714-17.JPG,alabaster color,1,
+Pconcolor 3718-11.JPG,lion,0.818,/animal/mammal/carnivore/feline/big cat/lion
+Pconcolor 3718-11.JPG,big cat,0.827,
+Pconcolor 3718-11.JPG,feline,0.828,
+Pconcolor 3718-11.JPG,carnivore,0.899,
+Pconcolor 3718-11.JPG,mammal,0.902,
+Pconcolor 3718-11.JPG,animal,0.948,
+Pconcolor 3718-11.JPG,suckling (mammal),0.577,/animal/young/suckling (mammal)
+Pconcolor 3718-11.JPG,young,0.666,
+Pconcolor 3718-11.JPG,dingo,0.535,/animal/mammal/carnivore/canine/wild dog/dingo
+Pconcolor 3718-11.JPG,wild dog,0.536,
+Pconcolor 3718-11.JPG,canine,0.537,
+Pconcolor 3718-11.JPG,lioness,0.504,/animal/mammal/carnivore/feline/big cat/lion/lioness
+Pconcolor 3718-11.JPG,lion cub,0.5,/animal/mammal/carnivore/feline/big cat/lion/lion cub
+Pconcolor 3718-11.JPG,pale yellow color,0.821,
+Pconcolor 3718-11.JPG,beige color,0.713,
+Pconcolor 3718-7.JPG,cub,0.599,
+Pconcolor 3718-7.JPG,young,0.531,/animal/young
+Pconcolor 3718-7.JPG,animal,0.89,
+Pconcolor 3718-7.JPG,lion cub,0.526,/animal/mammal/carnivore/feline/big cat/lion/lion cub
+Pconcolor 3718-7.JPG,lion,0.589,
+Pconcolor 3718-7.JPG,big cat,0.6,
+Pconcolor 3718-7.JPG,feline,0.782,
+Pconcolor 3718-7.JPG,carnivore,0.809,
+Pconcolor 3718-7.JPG,mammal,0.811,
+Pconcolor 3718-7.JPG,cougar,0.5,/animal/mammal/carnivore/feline/cat/wildcat/cougar
+Pconcolor 3718-7.JPG,wildcat,0.5,
+Pconcolor 3718-7.JPG,cat,0.531,
+Pconcolor 3718-7.JPG,alabaster color,1,
+Pconcolor 3735-31.JPG,cougar,0.72,/animal/mammal/carnivore/feline/cat/wildcat/cougar
+Pconcolor 3735-31.JPG,wildcat,0.72,
+Pconcolor 3735-31.JPG,cat,0.721,
+Pconcolor 3735-31.JPG,feline,0.894,
+Pconcolor 3735-31.JPG,carnivore,0.907,
+Pconcolor 3735-31.JPG,mammal,0.908,
+Pconcolor 3735-31.JPG,animal,0.911,
+Pconcolor 3735-31.JPG,lion,0.549,/animal/mammal/carnivore/feline/big cat/lion
+Pconcolor 3735-31.JPG,big cat,0.577,
+Pconcolor 3735-31.JPG,alabaster color,0.959,
+Pconcolor 3739-26.JPG,lion,0.853,/animal/mammal/carnivore/feline/big cat/lion
+Pconcolor 3739-26.JPG,big cat,0.876,
+Pconcolor 3739-26.JPG,feline,0.94,
+Pconcolor 3739-26.JPG,carnivore,0.964,
+Pconcolor 3739-26.JPG,mammal,0.964,
+Pconcolor 3739-26.JPG,animal,0.964,
+Pconcolor 3739-26.JPG,cougar,0.538,/animal/mammal/carnivore/feline/cat/wildcat/cougar
+Pconcolor 3739-26.JPG,wildcat,0.695,
+Pconcolor 3739-26.JPG,cat,0.696,
+Pconcolor 3739-26.JPG,coyote,0.537,/animal/mammal/carnivore/canine/wolf/coyote
+Pconcolor 3739-26.JPG,wolf,0.564,
+Pconcolor 3739-26.JPG,canine,0.565,
+Pconcolor 3739-26.JPG,lioness,0.526,/animal/mammal/carnivore/feline/big cat/lion/lioness
+Pconcolor 3739-26.JPG,lion cub,0.526,/animal/mammal/carnivore/feline/big cat/lion/lion cub
+Pconcolor 3739-26.JPG,bobcat,0.5,/animal/mammal/carnivore/feline/cat/wildcat/lynx/bobcat
+Pconcolor 3739-26.JPG,lynx,0.514,
+Pconcolor 3739-26.JPG,beige color,0.805,
+Pconcolor 3739-26.JPG,gray color,0.565,
+Pconcolor 3739-27.JPG,coyote,0.636,/animal/mammal/carnivore/canine/wolf/coyote
+Pconcolor 3739-27.JPG,wolf,0.69,
+Pconcolor 3739-27.JPG,canine,0.838,
+Pconcolor 3739-27.JPG,carnivore,0.885,
+Pconcolor 3739-27.JPG,mammal,0.886,
+Pconcolor 3739-27.JPG,animal,0.888,
+Pconcolor 3739-27.JPG,red fox,0.534,/animal/mammal/carnivore/canine/fox/red fox
+Pconcolor 3739-27.JPG,fox,0.661,
+Pconcolor 3739-27.JPG,feline,0.5,/animal/mammal/carnivore/feline
+Pconcolor 3739-27.JPG,azure color,0.823,
+Pconcolor 3739-27.JPG,pale yellow color,0.674,
+Pconcolor 596-35.JPG,Dall sheep,0.623,/animal/mammal/ruminant/wild sheep/Dall sheep
+Pconcolor 596-35.JPG,wild sheep,0.631,
+Pconcolor 596-35.JPG,ruminant,0.745,
+Pconcolor 596-35.JPG,mammal,0.781,
+Pconcolor 596-35.JPG,animal,0.863,
+Pconcolor 596-35.JPG,suckling (mammal),0.608,/animal/young/suckling (mammal)
+Pconcolor 596-35.JPG,young,0.652,
+Pconcolor 596-35.JPG,addax antelope,0.567,/animal/mammal/ruminant/antelope/addax antelope
+Pconcolor 596-35.JPG,antelope,0.586,
+Pconcolor 596-35.JPG,doe,0.5,/animal/mammal/doe
+Pconcolor 596-35.JPG,alabaster color,0.944,
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,coyote,0.875,/animal/mammal/carnivore/canine/wolf/coyote
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,wolf,0.945,
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,canine,0.98,
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,carnivore,0.981,
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,mammal,0.982,
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,animal,0.982,
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,white wolf,0.616,/animal/mammal/carnivore/canine/wolf/white wolf
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,kit fox,0.547,/animal/mammal/carnivore/canine/fox/kit fox
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,fox,0.737,
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,Arctic fox,0.5,/animal/mammal/carnivore/canine/fox/Arctic fox
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,black color,0.801,
+pgymnocercus 9209-8 Sta.Ana-6000.jpg,coal black color,0.504,
+pgymnocercus 9209-9 Sta.Ana-6000.jpg,coyote,0.981,/animal/mammal/carnivore/canine/wolf/coyote
+pgymnocercus 9209-9 Sta.Ana-6000.jpg,wolf,0.983,
+pgymnocercus 9209-9 Sta.Ana-6000.jpg,canine,0.983,
+pgymnocercus 9209-9 Sta.Ana-6000.jpg,carnivore,0.983,
+pgymnocercus 9209-9 Sta.Ana-6000.jpg,mammal,0.983,
+pgymnocercus 9209-9 Sta.Ana-6000.jpg,animal,0.983,
+pgymnocercus 9209-9 Sta.Ana-6000.jpg,azure color,0.766,
+Pgymnocercus-cara 596-37.JPG,Arctic fox,0.762,/animal/mammal/carnivore/canine/fox/Arctic fox
+Pgymnocercus-cara 596-37.JPG,fox,0.805,
+Pgymnocercus-cara 596-37.JPG,canine,0.957,
+Pgymnocercus-cara 596-37.JPG,carnivore,0.959,
+Pgymnocercus-cara 596-37.JPG,mammal,0.959,
+Pgymnocercus-cara 596-37.JPG,animal,0.959,
+Pgymnocercus-cara 596-37.JPG,white wolf,0.69,/animal/mammal/carnivore/canine/wolf/white wolf
+Pgymnocercus-cara 596-37.JPG,wolf,0.859,
+Pgymnocercus-cara 596-37.JPG,red wolf,0.5,/animal/mammal/carnivore/canine/wolf/red wolf
+Pgymnocercus-cara 596-37.JPG,charcoal color,0.789,
+Pgymnocercus-cara 596-37.JPG,azure color,0.596,
+ponca 2493-5.JPG,leopard,0.88,/animal/mammal/carnivore/feline/big cat/leopard
+ponca 2493-5.JPG,big cat,0.986,
+ponca 2493-5.JPG,feline,0.987,
+ponca 2493-5.JPG,carnivore,0.991,
+ponca 2493-5.JPG,mammal,0.991,
+ponca 2493-5.JPG,animal,0.991,
+ponca 2493-5.JPG,jaguar,0.856,/animal/mammal/carnivore/feline/big cat/jaguar
+ponca 2493-5.JPG,bottle green color,0.704,
+ponca 2493-5.JPG,greenishness color,0.55,
+ponca 9209-13 Sta.Ana-6000.jpg,leopard,0.935,/animal/mammal/carnivore/feline/big cat/leopard
+ponca 9209-13 Sta.Ana-6000.jpg,big cat,0.964,
+ponca 9209-13 Sta.Ana-6000.jpg,feline,0.964,
+ponca 9209-13 Sta.Ana-6000.jpg,carnivore,0.964,
+ponca 9209-13 Sta.Ana-6000.jpg,mammal,0.964,
+ponca 9209-13 Sta.Ana-6000.jpg,animal,0.978,
+ponca 9209-13 Sta.Ana-6000.jpg,jaguar,0.571,/animal/mammal/carnivore/feline/big cat/jaguar
+ponca 9209-13 Sta.Ana-6000.jpg,cowfish,0.5,/animal/aquatic vertebrate/fish/spiny-finned fish/cowfish
+ponca 9209-13 Sta.Ana-6000.jpg,spiny-finned fish,0.5,
+ponca 9209-13 Sta.Ana-6000.jpg,fish,0.5,
+ponca 9209-13 Sta.Ana-6000.jpg,aquatic vertebrate,0.5,
+ponca 9209-13 Sta.Ana-6000.jpg,alabaster color,0.696,
+ponca 9209-13 Sta.Ana-6000.jpg,ultramarine color,0.679,
+Pseudalopex gymnocercus B. Rococo 1-05-05 3731-27.JPG,coyote,0.833,/animal/mammal/carnivore/canine/wolf/coyote
+Pseudalopex gymnocercus B. Rococo 1-05-05 3731-27.JPG,wolf,0.85,
+Pseudalopex gymnocercus B. Rococo 1-05-05 3731-27.JPG,canine,0.958,
+Pseudalopex gymnocercus B. Rococo 1-05-05 3731-27.JPG,carnivore,0.958,
+Pseudalopex gymnocercus B. Rococo 1-05-05 3731-27.JPG,mammal,0.958,
+Pseudalopex gymnocercus B. Rococo 1-05-05 3731-27.JPG,animal,0.958,
+Pseudalopex gymnocercus B. Rococo 1-05-05 3731-27.JPG,jackal,0.723,/animal/mammal/carnivore/canine/jackal
+Pseudalopex gymnocercus B. Rococo 1-05-05 3731-27.JPG,dhole,0.5,/animal/mammal/carnivore/canine/wild dog/dhole
+Pseudalopex gymnocercus B. Rococo 1-05-05 3731-27.JPG,wild dog,0.501,
+Pseudalopex gymnocercus B. Rococo 1-05-05 3731-27.JPG,ash grey color,0.867,
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,cougar,0.895,/animal/mammal/carnivore/feline/cat/wildcat/cougar
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,wildcat,0.943,
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,cat,0.945,
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,feline,0.983,
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,carnivore,0.984,
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,mammal,0.985,
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,animal,0.985,
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,lion cub,0.521,/animal/mammal/carnivore/feline/big cat/lion/lion cub
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,lion,0.626,
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,big cat,0.655,
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,jungle cat,0.5,/animal/mammal/carnivore/feline/cat/wildcat/jungle cat
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,beige color,0.803,
+Puma concolor B. Rococo 3-04-05 3727-19.JPG,greenishness color,0.619,
+Puma concolor Salitral 3730-22.JPG,lion,0.854,/animal/mammal/carnivore/feline/big cat/lion
+Puma concolor Salitral 3730-22.JPG,big cat,0.861,
+Puma concolor Salitral 3730-22.JPG,feline,0.898,
+Puma concolor Salitral 3730-22.JPG,carnivore,0.899,
+Puma concolor Salitral 3730-22.JPG,mammal,0.9,
+Puma concolor Salitral 3730-22.JPG,animal,0.927,
+Puma concolor Salitral 3730-22.JPG,lioness,0.662,/animal/mammal/carnivore/feline/big cat/lion/lioness
+Puma concolor Salitral 3730-22.JPG,cougar,0.512,/animal/mammal/carnivore/feline/cat/wildcat/cougar
+Puma concolor Salitral 3730-22.JPG,wildcat,0.512,
+Puma concolor Salitral 3730-22.JPG,cat,0.515,
+Puma concolor Salitral 3730-22.JPG,mastiff dog,0.5,/animal/domestic animal/dog/mastiff dog
+Puma concolor Salitral 3730-22.JPG,dog,0.508,
+Puma concolor Salitral 3730-22.JPG,domestic animal,0.509,
+Puma concolor Salitral 3730-22.JPG,gray color,0.787,
+Puma concolor Salitral 3730-22.JPG,alabaster color,0.781,
+R.americana 2003-12-31 5707-30 Gareca-6000.JPG,ostrich,0.882,/animal/bird/ostrich
+R.americana 2003-12-31 5707-30 Gareca-6000.JPG,bird,0.945,
+R.americana 2003-12-31 5707-30 Gareca-6000.JPG,animal,0.946,
+R.americana 2003-12-31 5707-30 Gareca-6000.JPG,rhea,0.503,/animal/bird/rhea
+R.americana 2003-12-31 5707-30 Gareca-6000.JPG,green color,0.78,
+R.americana 2003-12-31 5707-30 Gareca-6000.JPG,steel blue color,0.562,
+R.americana 5713-13 Gareca-6000.JPG,rhea,0.926,/animal/bird/rhea
+R.americana 5713-13 Gareca-6000.JPG,bird,0.926,
+R.americana 5713-13 Gareca-6000.JPG,animal,0.926,
+R.americana 5713-13 Gareca-6000.JPG,azure color,0.919,
+R.americana 5713-13 Gareca-6000.JPG,greenish blue color,0.853,
+ramericana 5299-4 Gareca-2000.JPG,silverpoint,0.908,
+ramericana 5299-4 Gareca-2000.JPG,Snow Scene,0.541,/nature/Snow Scene
+ramericana 5299-4 Gareca-2000.JPG,nature,0.542,
+ramericana 5299-4 Gareca-2000.JPG,waterspout,0.5,
+ramericana 5299-4 Gareca-2000.JPG,azure color,1,
+T.terrestris 2004-01-11 5715-8 S.Ana-4000.JPG,Malayan tapir (hoofed animal),0.752,/animal/mammal/odd-toed ungulate (hoofed mammal)/Malayan tapir (hoofed animal)
+T.terrestris 2004-01-11 5715-8 S.Ana-4000.JPG,odd-toed ungulate (hoofed mammal),0.952,
+T.terrestris 2004-01-11 5715-8 S.Ana-4000.JPG,mammal,0.952,
+T.terrestris 2004-01-11 5715-8 S.Ana-4000.JPG,animal,0.953,
+T.terrestris 2004-01-11 5715-8 S.Ana-4000.JPG,New World tapir (hoofed animal),0.725,/animal/mammal/odd-toed ungulate (hoofed mammal)/New World tapir (hoofed animal)
+T.terrestris 2004-01-11 5715-8 S.Ana-4000.JPG,tapir (hoofed animal),0.5,/animal/mammal/odd-toed ungulate (hoofed mammal)/tapir (hoofed animal)
+T.terrestris 2004-01-11 5715-8 S.Ana-4000.JPG,coal black color,0.782,
+T.terrestris 2004-01-11 5715-8 S.Ana-4000.JPG,ash grey color,0.7,
+Ttajacu 2493-25.JPG,collared peccary (hog),0.828,/animal/mammal/collared peccary (hog)
+Ttajacu 2493-25.JPG,mammal,0.941,
+Ttajacu 2493-25.JPG,animal,0.941,
+Ttajacu 2493-25.JPG,boar,0.576,/animal/mammal/swine/boar
+Ttajacu 2493-25.JPG,swine,0.731,
+Ttajacu 2493-25.JPG,wild boar,0.501,/animal/mammal/swine/wild boar
+Ttajacu 2493-25.JPG,musk hog,0.5,/animal/mammal/musk hog
+Ttajacu 2493-25.JPG,gray color,0.961,
+Ttajacu 2493-25.JPG,sage green color,0.666,
+visca 3728-10.JPG,galago (primate),0.628,/animal/mammal/galago (primate)
+visca 3728-10.JPG,mammal,0.862,
+visca 3728-10.JPG,animal,0.862,
+visca 3728-10.JPG,flying opossum,0.564,/animal/mammal/pouched mammal/flying opossum
+visca 3728-10.JPG,pouched mammal,0.574,
+visca 3728-10.JPG,gray color,0.983,
+visca 3728-13 rasca.JPG,cat,0.867,/animal/mammal/carnivore/feline/cat
+visca 3728-13 rasca.JPG,feline,0.869,
+visca 3728-13 rasca.JPG,carnivore,0.87,
+visca 3728-13 rasca.JPG,mammal,0.955,
+visca 3728-13 rasca.JPG,animal,0.955,
+visca 3728-13 rasca.JPG,galago (primate),0.611,/animal/mammal/galago (primate)
+visca 3728-13 rasca.JPG,alley cat,0.599,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+visca 3728-13 rasca.JPG,domestic cat,0.645,
+visca 3728-13 rasca.JPG,sand cat,0.519,/animal/mammal/carnivore/feline/cat/wildcat/sand cat
+visca 3728-13 rasca.JPG,wildcat,0.539,
+visca 3728-13 rasca.JPG,European rabbit,0.5,/animal/mammal/gnawing mammal/rabbit/European rabbit
+visca 3728-13 rasca.JPG,rabbit,0.598,
+visca 3728-13 rasca.JPG,gnawing mammal,0.628,
+visca 3728-13 rasca.JPG,gray color,0.835,
+visca 3728-13 rasca.JPG,black color,0.612,
+visca 3728-26.JPG,brush kangaroo,0.78,/animal/mammal/pouched mammal/kangaroo/brush kangaroo
+visca 3728-26.JPG,kangaroo,0.785,
+visca 3728-26.JPG,pouched mammal,0.788,
+visca 3728-26.JPG,mammal,0.901,
+visca 3728-26.JPG,animal,0.901,
+visca 3728-26.JPG,grey fox,0.531,/animal/mammal/carnivore/canine/fox/grey fox
+visca 3728-26.JPG,fox,0.537,
+visca 3728-26.JPG,canine,0.537,
+visca 3728-26.JPG,carnivore,0.74,
+visca 3728-26.JPG,cat,0.65,/animal/mammal/carnivore/feline/cat
+visca 3728-26.JPG,feline,0.653,
+visca 3728-26.JPG,pademelon,0.51,/animal/mammal/pouched mammal/kangaroo/brush kangaroo/pademelon
+visca 3728-26.JPG,alley cat,0.5,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+visca 3728-26.JPG,domestic cat,0.546,
+visca 3728-26.JPG,gray color,0.957,
+visca 3728-26.JPG,alabaster color,0.667,
+visca 3734-16.JPG,bettong  kangaroo,0.912,/animal/mammal/pouched mammal/kangaroo/bettong  kangaroo
+visca 3734-16.JPG,kangaroo,0.912,
+visca 3734-16.JPG,pouched mammal,0.938,
+visca 3734-16.JPG,mammal,0.938,
+visca 3734-16.JPG,animal,0.938,
+visca 3734-16.JPG,rabbit-eared bandicoot,0.5,/animal/mammal/pouched mammal/rabbit-eared bandicoot
+visca 3734-16.JPG,gray color,0.998,
+visca 3734-28.JPG,cat,0.864,/animal/mammal/carnivore/feline/cat
+visca 3734-28.JPG,feline,0.873,
+visca 3734-28.JPG,carnivore,0.873,
+visca 3734-28.JPG,mammal,0.922,
+visca 3734-28.JPG,animal,0.923,
+visca 3734-28.JPG,alley cat,0.55,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+visca 3734-28.JPG,domestic cat,0.624,
+visca 3734-28.JPG,galago (primate),0.513,/animal/mammal/galago (primate)
+visca 3734-28.JPG,tamarisk gerbil rodent,0.5,/animal/mammal/rodent/tamarisk gerbil rodent
+visca 3734-28.JPG,rodent,0.541,
+visca 3734-28.JPG,alabaster color,1,
+visca 3734-29.JPG,brush kangaroo,0.568,/animal/mammal/pouched mammal/kangaroo/brush kangaroo
+visca 3734-29.JPG,kangaroo,0.601,
+visca 3734-29.JPG,pouched mammal,0.725,
+visca 3734-29.JPG,mammal,0.868,
+visca 3734-29.JPG,animal,0.869,
+visca 3734-29.JPG,musk hog,0.559,/animal/mammal/musk hog
+visca 3734-29.JPG,tamarisk gerbil rodent,0.545,/animal/mammal/rodent/tamarisk gerbil rodent
+visca 3734-29.JPG,rodent,0.656,
+visca 3734-29.JPG,chinchilla rodent,0.519,/animal/mammal/rodent/chinchilla rodent
+visca 3734-29.JPG,koala bear,0.506,/animal/mammal/pouched mammal/koala bear
+visca 3734-29.JPG,bandicoot,0.5,/animal/mammal/pouched mammal/bandicoot
+visca 3734-29.JPG,alabaster color,1,
+visca 3734-3.JPG,brush kangaroo,0.684,/animal/mammal/pouched mammal/kangaroo/brush kangaroo
+visca 3734-3.JPG,kangaroo,0.686,
+visca 3734-3.JPG,pouched mammal,0.691,
+visca 3734-3.JPG,mammal,0.899,
+visca 3734-3.JPG,animal,0.903,
+visca 3734-3.JPG,jungle cat,0.54,/animal/mammal/carnivore/feline/cat/wildcat/jungle cat
+visca 3734-3.JPG,wildcat,0.691,
+visca 3734-3.JPG,cat,0.802,
+visca 3734-3.JPG,feline,0.814,
+visca 3734-3.JPG,carnivore,0.817,
+visca 3734-3.JPG,European wildcat,0.539,/animal/mammal/carnivore/feline/cat/wildcat/European wildcat
+visca 3734-3.JPG,alley cat,0.5,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+visca 3734-3.JPG,domestic cat,0.581,
+visca 3734-3.JPG,gray color,0.918,
+visca 3734-30.JPG,cat,0.824,/animal/mammal/carnivore/feline/cat
+visca 3734-30.JPG,feline,0.825,
+visca 3734-30.JPG,carnivore,0.825,
+visca 3734-30.JPG,mammal,0.894,
+visca 3734-30.JPG,animal,0.896,
+visca 3734-30.JPG,brush kangaroo,0.631,/animal/mammal/pouched mammal/kangaroo/brush kangaroo
+visca 3734-30.JPG,kangaroo,0.634,
+visca 3734-30.JPG,pouched mammal,0.637,
+visca 3734-30.JPG,sand cat,0.513,/animal/mammal/carnivore/feline/cat/wildcat/sand cat
+visca 3734-30.JPG,wildcat,0.515,
+visca 3734-30.JPG,alley cat,0.5,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+visca 3734-30.JPG,domestic cat,0.571,
+visca 3734-30.JPG,alabaster color,0.985,
+visca 3734-31.JPG,cat,0.923,/animal/mammal/carnivore/feline/cat
+visca 3734-31.JPG,feline,0.925,
+visca 3734-31.JPG,carnivore,0.925,
+visca 3734-31.JPG,mammal,0.943,
+visca 3734-31.JPG,animal,0.943,
+visca 3734-31.JPG,alley cat,0.613,/animal/mammal/carnivore/feline/cat/domestic cat/alley cat
+visca 3734-31.JPG,domestic cat,0.662,
+visca 3734-31.JPG,sand cat,0.606,/animal/mammal/carnivore/feline/cat/wildcat/sand cat
+visca 3734-31.JPG,wildcat,0.727,
+visca 3734-31.JPG,galago (primate),0.524,/animal/mammal/galago (primate)
+visca 3734-31.JPG,lynx,0.5,/animal/mammal/carnivore/feline/cat/wildcat/lynx
+visca 3734-31.JPG,gray color,0.984,
+visca 3743-23.JPG,European wildcat,0.615,/animal/mammal/carnivore/feline/cat/wildcat/European wildcat
+visca 3743-23.JPG,wildcat,0.734,
+visca 3743-23.JPG,cat,0.736,
+visca 3743-23.JPG,feline,0.738,
+visca 3743-23.JPG,carnivore,0.812,
+visca 3743-23.JPG,mammal,0.903,
+visca 3743-23.JPG,animal,0.903,
+visca 3743-23.JPG,common raccoon,0.574,/animal/mammal/carnivore/common raccoon
+visca 3743-23.JPG,ground squirrel,0.525,/animal/mammal/rodent/squirrel/ground squirrel
+visca 3743-23.JPG,squirrel,0.648,
+visca 3743-23.JPG,rodent,0.654,
+visca 3743-23.JPG,jungle cat,0.52,/animal/mammal/carnivore/feline/cat/wildcat/jungle cat
+visca 3743-23.JPG,eastern grey squirrel,0.507,/animal/mammal/rodent/squirrel/tree squirrel/eastern grey squirrel
+visca 3743-23.JPG,tree squirrel,0.529,
+visca 3743-23.JPG,galago (primate),0.5,/animal/mammal/galago (primate)
+visca 3743-23.JPG,gray color,0.899,
+visca 3743-23.JPG,ash grey color,0.718,
+visca 3743-24.JPG,grey fox,0.84,/animal/mammal/carnivore/canine/fox/grey fox
+visca 3743-24.JPG,fox,0.884,
+visca 3743-24.JPG,canine,0.922,
+visca 3743-24.JPG,carnivore,0.924,
+visca 3743-24.JPG,mammal,0.924,
+visca 3743-24.JPG,animal,0.926,
+visca 3743-24.JPG,coyote,0.563,/animal/mammal/carnivore/canine/wolf/coyote
+visca 3743-24.JPG,wolf,0.598,
+visca 3743-24.JPG,red fox,0.5,/animal/mammal/carnivore/canine/fox/red fox
+visca 3743-24.JPG,gray color,0.99,
+visca 3743-4.JPG,brush kangaroo,0.895,/animal/mammal/pouched mammal/kangaroo/brush kangaroo
+visca 3743-4.JPG,kangaroo,0.95,
+visca 3743-4.JPG,pouched mammal,0.951,
+visca 3743-4.JPG,mammal,0.951,
+visca 3743-4.JPG,animal,0.951,
+visca 3743-4.JPG,bettong  kangaroo,0.627,/animal/mammal/pouched mammal/kangaroo/bettong  kangaroo
+visca 3743-4.JPG,pademelon,0.5,/animal/mammal/pouched mammal/kangaroo/brush kangaroo/pademelon
+visca 3743-4.JPG,gray color,1,
+visca 3743-8.JPG,bettong  kangaroo,0.832,/animal/mammal/pouched mammal/kangaroo/bettong  kangaroo
+visca 3743-8.JPG,kangaroo,0.835,
+visca 3743-8.JPG,pouched mammal,0.87,
+visca 3743-8.JPG,mammal,0.933,
+visca 3743-8.JPG,animal,0.933,
+visca 3743-8.JPG,galago (primate),0.707,/animal/mammal/galago (primate)
+visca 3743-8.JPG,flying opossum,0.5,/animal/mammal/pouched mammal/flying opossum
+visca 3743-8.JPG,gray color,0.987,
+visca 3743-8.JPG,ash grey color,0.826,
+viscacha 3718-10.JPG,pademelon,0.743,/animal/mammal/pouched mammal/kangaroo/brush kangaroo/pademelon
+viscacha 3718-10.JPG,brush kangaroo,0.913,
+viscacha 3718-10.JPG,kangaroo,0.973,
+viscacha 3718-10.JPG,pouched mammal,0.974,
+viscacha 3718-10.JPG,mammal,0.974,
+viscacha 3718-10.JPG,animal,0.974,
+viscacha 3718-10.JPG,bettong  kangaroo,0.73,/animal/mammal/pouched mammal/kangaroo/bettong  kangaroo
+viscacha 3718-10.JPG,common wallaby (kangaroo like),0.5,/animal/mammal/pouched mammal/kangaroo/brush kangaroo/common wallaby (kangaroo like)
+viscacha 3718-10.JPG,gray color,1,
