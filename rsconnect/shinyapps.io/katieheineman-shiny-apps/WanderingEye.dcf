@@ -5,9 +5,9 @@ account: katieheineman-shiny-apps
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 217955
-bundleId: 994591
+bundleId: 994851
 url: https://katieheineman-shiny-apps.shinyapps.io/WanderingEye/
-when: 1506251153.93435
+when: 1506275387.44319
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: EN_100k_lsa.rda|ITIS_All.rds|TASA.rda|Zoohackathon2017_SamplePhotos
+ignoredFiles: EN_100k_lsa.rda|ITIS_All.rds|TASA.rda

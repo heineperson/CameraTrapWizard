@@ -30,9 +30,12 @@ shinyUI(fluidPage(
                         tags$li("Removing non-animal ID terms"), 
                         tags$li("API limits and fees"), 
                         tags$li("Creating a Training Dataset")),
-                      h2("Who could use this?"),
+                     h2("What algorithm is the best?"),
+                      p("With the species-specific common name, Amazon Rekognition was the most likely to correctly identify the animal in the camera trap. For the family level common name, ClarifAI is the most likely choose the family name as the top pick"),
+
+                      h2("Who should use WanderEye?"),
                        p("Anyone who doesn't have time to upload the same photos into four separate web sites. 
-                         We could make this service into an API for the SMART Partnership who wrote this problem statement")),
+                         We also have created the code necessary for a pipeline that executes real time batch upload of camera trap images that could be used by SMART Partnership who wrote this problem statement")),
                     
                       
                       column(4, img(src='Ogeoffroyi 3717-27.JPG', align = "right",width="400px"),
@@ -49,14 +52,14 @@ shinyUI(fluidPage(
     sidebarPanel( 
       fluidRow( 
         fileInput(inputId = 'files', 
-                  label = 'Select an Image',
+                  label = 'Select an Image for Computer Vision Comparison',
                   multiple = TRUE,
                   accept=c('image/png', 'image/jpeg'),
                   width='400px'),
-        radioButtons("AnimalFilter", "Filter Non Animal Words", choices = c("Yes","No"), selected = "Yes",
+        radioButtons("AnimalFilter", "Show only animal words", choices = c("Yes","No"), selected = "Yes",
   inline = FALSE, width = NULL, choiceNames = NULL, choiceValues = NULL),
 
-       sliderInput("FilterThreshold", "Non-animal exclusion Filter",
+       sliderInput("FilterThreshold", "Strenth of Animal Only filter",
                   min = 0, max = 1,
                   value = 0.7),
         actionButton("submitButton", "Run CameraTrap Wizard")

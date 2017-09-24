@@ -82,10 +82,10 @@ shinyServer(function(input, output) {
     # #GoogleResultsList <- lapply(NewImages(), grabGoogleID)
     # # Binding the results together
     # GoogleResults <- rbindlist(GoogleResultsList, fill=TRUE)
-    output$GoogleTable <- renderTable({All_Results[Source=="google" & File%in%files()$name,.(description,score,Specificity,SelectionMetric)]})
-    output$AWSTable <- renderTable({All_Results[Source=="amazon" & File%in%files()$name,.(description,score,Specificity,SelectionMetric)]})
-    output$CLARTable <- renderTable({All_Results[Source=="clarifAI" & File%in%files()$name,.(description,score,Specificity,SelectionMetric)]})
-    output$IBMTable <- renderTable({All_Results[Source=="IBM" & File%in%files()$name,.(description,score,Specificity,SelectionMetric)]})
+    output$GoogleTable <- renderTable({All_Results[Source=="google" & File%in%files()$name,.(IDterm = description,EngineConfidence =score,SelectionMetric)]})
+    output$AWSTable <- renderTable({All_Results[Source=="amazon" & File%in%files()$name,.(IDterm = description,EngineConfidence = score,SelectionMetric)]})
+    output$CLARTable <- renderTable({All_Results[Source=="clarifAI" & File%in%files()$name,.(IDterm = description,EngineConfidence = score,SelectionMetric)]})
+    output$IBMTable <- renderTable({All_Results[Source=="IBM" & File%in%files()$name,.(IDterm = description,score,EngineConfidence = score,SelectionMetric)]})
     TrainingResults <- trainingdata[PhotoName%in%files()$name,.(`Specific Name`=ScientificNameMajor,
                                                                   `Common Name` = CommonNameMajor,  
                                                                   `General Group` = SimplestName)]
